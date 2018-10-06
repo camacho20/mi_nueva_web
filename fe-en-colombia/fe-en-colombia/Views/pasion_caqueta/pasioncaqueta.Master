@@ -1,0 +1,180 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="pasioncaqueta.master.cs" Inherits="fe_en_colombia.Views.pasion_caqueta.pasioncaqueta" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <title></title>
+    <!--     Fonts and icons     -->
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
+	<link href="../../Content/stylo_incio/css/font-awesome.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
+	<!-- CSS Files -->
+   <link href="../../Content/stylo_pasiones/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../Content/stylo_pasiones/css/material-kit5438.css" rel="stylesheet" />
+    <link href="../../Content/main.css" rel="stylesheet" />
+	<!-- CSS Just for demo purpose, don't include it in your project -->
+    <link href="../../Content/stylo_pasiones/css/fondocaqueta.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="presentation-page"  >
+
+    <form id="form1" runat="server">
+         <nav class="navbar navbar-transparent navbar-fixed-top navbar-color-on-scroll" id="sectionsNav">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header ">
+                <button type="button" class="navbar-toggle" data-toggle="collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+               
+
+                <a href="../../inicio.aspx" class="btn btn-success btn-round btn-primary btn-sm  ">
+                   <i class="fas fa-arrow-circle-left"></i> Fe en Colombia
+                </a>
+
+               
+            </div>
+
+            <div class="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="inicio.html">
+                            <i class="material-icons">account_balance</i> ¿Que es Pasión Caquetá ?
+                        </a>
+                    </li>
+
+                    <li>
+
+                        <a href="noticias.html">
+                            <i class="fas fa-calendar-alt"></i> Conogrmas de actividades
+                        </a>
+
+                    </li>
+
+                    <li>
+                        <a href="sobrenosotros.html">
+                           <i class="fas fa-video"></i> Multimedia
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <br>
+    </br>
+    <br>
+    </br>
+    <br>
+    </br>
+    <br>
+    </br>
+    <br>
+    </br>
+
+        <div class="social-bar">
+            <a href="https://es-la.facebook.com/Pasioncaqueta/" class="icon icon-facebook" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://twitter.com/pasioncaqueta1?lang=es" class="icon icon-twitter" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="https://www.youtube.com/channel/UCi6mhgLfK6jZGnAPe_RNxWw" class="icon icon-youtube" target="_blank"><i class="fab fa-youtube"></i></a>
+            <a href="https://www.instagram.com/p/Bdt_5f7Hsc7/?hl=es-la" class="icon icon-instagram" target="_blank"><i class="fab fa-instagram"></i></a>
+        </div>
+
+        	<div class="main main-raised">
+   
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <br />
+        <br />
+
+        <footer class="footer footer-white ">
+        <div class="container">
+
+        <div class="copyright pull-right">
+            &copy;
+            <script>document.write(new Date().getFullYear())</script>, Creado por: <p class="m-0"> Autor</p>
+        </div>
+        </div>
+    </footer>
+
+
+    </form>
+    <!--   Core JS Files   -->
+<script src="../../Content/stylo_pasiones/js/jquery.min.js"></script>
+<script src="../../Content/stylo_pasiones/js/bootstrap.min.js"></script>
+<script src="../../Content/stylo_pasiones/js/material.min.js"></script>
+	
+
+	<!--  Plugin for Date Time Picker and Full Calendar Plugin-->
+<script src="../../Content/stylo_pasiones/js/moment.min.js"></script>
+
+	<!--	Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
+<script src="../../Content/stylo_pasiones/js/nouislider.min.js"></script>
+
+	<!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
+<script src="../../Content/stylo_pasiones/js/bootstrap-datetimepicker.js"></script>
+
+	<!--	Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
+<script src="../../Content/stylo_pasiones/js/bootstrap-selectpicker.js"></script>
+
+	<!--	Plugin for Tags, full documentation here: http://xoxco.com/projects/code/tagsinput/  -->	
+<script src="../../Content/stylo_pasiones/js/bootstrap-tagsinput.js"></script>
+
+	<!--	Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
+
+<script src="../../Content/stylo_pasiones/js/jasny-bootstrap.min.js"></script>
+
+	<!-- Plugin For Google Maps -->
+	<script  type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFPQibxeDaLIUHsC6_KqDdFaUdhrbhZ3M"></script>
+
+	<!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
+
+<script src="../../Content/stylo_pasiones/js/material-kit5438.js"></script>
+
+	<!-- Fixed Sidebar Nav - JS For Demo Purpose, Don't Include it in your project -->
+	
+<script src="../../Content/stylo_pasiones/js/modernizr.js"></script>
+<script src="../../Content/stylo_pasiones/js/vertical-nav.js"></script>
+
+	<script type="text/javascript">
+
+		$(document).ready(function(){
+			var slider = document.getElementById('sliderRegular');
+
+	        noUiSlider.create(slider, {
+	            start: 40,
+	            connect: [true,false],
+	            range: {
+	                min: 0,
+	                max: 100
+	            }
+	        });
+
+	        var slider2 = document.getElementById('sliderDouble');
+
+	        noUiSlider.create(slider2, {
+	            start: [ 20, 60 ],
+	            connect: true,
+	            range: {
+	                min:  0,
+	                max:  100
+	            }
+	        });
+
+
+
+			materialKit.initFormExtendedDatetimepickers();
+
+		});
+	</script>
+
+
+</body>
+</html>

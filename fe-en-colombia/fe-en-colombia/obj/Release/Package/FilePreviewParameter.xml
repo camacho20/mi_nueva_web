@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="fe_en_colombia" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\io\\OneDrive\ -\ Universidad\ de\ la\ Amazonia\\desarrollo\ web\ pasion\ caqueta\\fe-en-colombia\\fe-en-colombia\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\io\\OneDrive\ -\ Universidad\ de\ la\ Amazonia\\desarrollo\ web\ pasion\ caqueta\\fe-en-colombia\\fe-en-colombia\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-fe-en-colombia-20180930085826.mdf;Initial Catalog=aspnet-fe-en-colombia-20180930085826;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\io\\OneDrive\ -\ Universidad\ de\ la\ Amazonia\\desarrollo\ web\ pasion\ caqueta\\fe-en-colombia\\fe-en-colombia\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

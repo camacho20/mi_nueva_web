@@ -243,6 +243,9 @@
     <Content Include="Content\stylo_incio\img\IMG_3171.JPG" />
     <Content Include="Content\stylo_incio\img\IMG_6802.JPG" />
     <Content Include="Content\stylo_incio\img\lgoinicio2.png" />
+    <Content Include="Content\stylo_incio\img\LOGO VERTICAL AMAZONAS.jpg" />
+    <Content Include="Content\stylo_incio\img\LOGO VERTICAL CAQUETA.jpg" />
+    <Content Include="Content\stylo_incio\img\LOGO VERTICAL PUTUMAYO - copia.jpg" />
     <Content Include="Content\stylo_incio\img\logo-autoridades-militares-y-civiles\logo1.jpg" />
     <Content Include="Content\stylo_incio\img\logo-autoridades-militares-y-civiles\logo10.jpg" />
     <Content Include="Content\stylo_incio\img\logo-autoridades-militares-y-civiles\logo11.jpg" />
@@ -295,9 +298,6 @@
     <Content Include="Content\stylo_incio\img\logo.jpg" />
     <Content Include="Content\stylo_incio\img\logoinicio.png" />
     <Content Include="Content\stylo_incio\img\mono1.JPG" />
-    <Content Include="Content\stylo_incio\img\pasion-amazonas.jpg" />
-    <Content Include="Content\stylo_incio\img\pasion-caqueta.jpg" />
-    <Content Include="Content\stylo_incio\img\pasion-putumayo.jpg" />
     <Content Include="Content\stylo_incio\js\bootstrap.js" />
     <Content Include="Content\stylo_incio\js\bootstrap.min.js" />
     <Content Include="Content\stylo_incio\js\bootstrap.youtubepopup.js" />
@@ -310,6 +310,89 @@
     <Content Include="Content\stylo_incio\js\jquery.mousewheel.min.js" />
     <Content Include="Content\stylo_incio\js\modernizr.custom.86080.js" />
     <Content Include="Content\stylo_incio\js\owl.carousel.js" />
+    <Content Include="Content\stylo_memoria\assets\css\animate.css" />
+    <Content Include="Content\stylo_memoria\assets\css\bootstrap.min.css" />
+    <Content Include="Content\stylo_memoria\assets\css\demo.css" />
+    <Content Include="Content\stylo_memoria\assets\css\github.css" />
+    <Content Include="Content\stylo_memoria\assets\css\icon.css" />
+    <Content Include="Content\stylo_memoria\assets\css\jPages.css" />
+    <Content Include="Content\stylo_memoria\assets\css\material-kit.css" />
+    <Content Include="Content\stylo_memoria\assets\css\style.css" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva1.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva10.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva11.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva12.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva13.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva14.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva15.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva16.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva17.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva18.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva19.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva2.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva20.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva21.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva22.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva23.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva24.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva25.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva26.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva27.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva28.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva29.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva3.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva30.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva31.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva32.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva33.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva34.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva35.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva36.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva37.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva38.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva39.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva4.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva40.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva41.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva42.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva43.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva45.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva46.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva47.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva48.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva5.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva50.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva51.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva52.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva53.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva54.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva55.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva56.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva57.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva58.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva59.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva6.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva60.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva61.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva62.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva63.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva7.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva8.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva9.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\memoria.jpg" />
+    <Content Include="Content\stylo_memoria\assets\js\bootstrap-datepicker.js" />
+    <Content Include="Content\stylo_memoria\assets\js\bootstrap.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\highlight.pack.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jPages.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jPages.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jquery-1.8.2.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jquery.lazyload.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jquery.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\js.js" />
+    <Content Include="Content\stylo_memoria\assets\js\material-kit.js" />
+    <Content Include="Content\stylo_memoria\assets\js\material.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\nouislider.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\tabifier.js" />
     <Content Include="Content\stylo_pasiones\assets-for-demo\demo.css" />
     <Content Include="Content\stylo_pasiones\assets-for-demo\modernizr.js" />
     <Content Include="Content\stylo_pasiones\assets-for-demo\vertical-nav.css" />
@@ -334,11 +417,25 @@
     <Content Include="Content\stylo_pasiones\img\LOGO HORIZONTAL AMAZONAS - fondo negro.jpg" />
     <Content Include="Content\stylo_pasiones\img\LOGO HORIZONTAL CAQUETA.jpg" />
     <Content Include="Content\stylo_pasiones\img\LOGO HORIZONTAL PUTUMAYO - fondo negro.jpg" />
+    <Content Include="Content\stylo_pasiones\img\LOGO VERTICAL AMAZONAS.jpg" />
+    <Content Include="Content\stylo_pasiones\img\LOGO VERTICAL CAQUETA.jpg" />
+    <Content Include="Content\stylo_pasiones\img\LOGO VERTICAL PUTUMAYO - copia.jpg" />
     <Content Include="Content\stylo_pasiones\img\LOGO-CAQUETA.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-amazonas\criptograma.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-amazonas\delfin.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-amazonas\indioamazonico.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-amazonas\multi.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-amazonas\victoria.jpg" />
     <Content Include="Content\stylo_pasiones\img\partes del logo-caqueta\manual pasion caqueta-3.jpg" />
     <Content Include="Content\stylo_pasiones\img\partes del logo-caqueta\manual pasion caqueta-diosa.jpg" />
     <Content Include="Content\stylo_pasiones\img\partes del logo-caqueta\manual pasion caqueta-heroe.jpg" />
     <Content Include="Content\stylo_pasiones\img\partes del logo-caqueta\manual pasion caqueta-rio.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-putumayo\bandera.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-putumayo\cascada.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-putumayo\colibri.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-putumayo\fe_causa.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-putumayo\inga.jpg" />
+    <Content Include="Content\stylo_pasiones\img\partes del logo-putumayo\macara.jpg" />
     <Content Include="Content\stylo_pasiones\js\atv-img-animation.js" />
     <Content Include="Content\stylo_pasiones\js\bootstrap-datetimepicker.js" />
     <Content Include="Content\stylo_pasiones\js\bootstrap-selectpicker.js" />
@@ -376,6 +473,56 @@
     <Content Include="Content\stylo_incio\fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="Content\stylo_pasiones\css\main.css.map" />
     <Content Include="Content\stylo_pasiones\img\partes del logo-caqueta\partes del logo Copy.lnk" />
+    <Content Include="Content\stylo_memoria\assets\css\.DS_Store" />
+    <Content Include="Content\stylo_memoria\assets\css\material-kit.css.map" />
+    <Content Include="Content\stylo_memoria\assets\js\.DS_Store" />
+    <Content Include="Content\stylo_memoria\assets\sass\.DS_Store" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\.DS_Store" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-datepicker.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-dropdownjs.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-nouislider.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-selectize.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-snackbarjs.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_alerts.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_buttons.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_cards.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_carousel.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_checkboxes.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_colors.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_core.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_dialogs.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_dividers.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_dropdown.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_example-pages.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_footers.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_form.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_images.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_import-bs-less.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_import-bs-sass.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_info-areas.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_inputs-size.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_inputs.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_labels.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_lists.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_mixins.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_navbar.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_pagination.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_panels.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_pills.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_popups.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_progress.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_radios.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_ripples.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_sections.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_shadows.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_tabs.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_togglebutton.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_typography.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_variables.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_variables_bootstrap.scss" />
+    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_welljumbo.scss" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Memoria histórica ultima versión Copy.lnk" />
     <None Include="Properties\PublishProfiles\ocm.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="inicio.aspx" />
@@ -414,6 +561,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Views\memoria_historica\Boletines.aspx" />
+    <Content Include="Views\memoria_historica\memoria.aspx" />
     <Content Include="Views\pasion_amazonas\inicio_pasion_amazonas.aspx" />
     <Content Include="Views\pasion_caqueta\inicio_pasion_caqueta.aspx" />
     <Content Include="Views\pasion_putumayo\inicio_pasion_putumayo.aspx" />
@@ -426,6 +575,7 @@
     <Content Include="Views\pasion_amazonas\pasionamazonas.Master" />
     <Content Include="Views\pasion_caqueta\pasioncaqueta.Master" />
     <Content Include="Views\pasion_putumayo\pasionputumayo.Master" />
+    <Content Include="Views\memoria_historica\Memoria_Historica.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -458,6 +608,27 @@
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\memoria_historica\Boletines.aspx.cs">
+      <DependentUpon>Boletines.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\memoria_historica\Boletines.aspx.designer.cs">
+      <DependentUpon>Boletines.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\memoria_historica\memoria.aspx.cs">
+      <DependentUpon>memoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\memoria_historica\memoria.aspx.designer.cs">
+      <DependentUpon>memoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\memoria_historica\Memoria_Historica.Master.cs">
+      <DependentUpon>Memoria_Historica.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\memoria_historica\Memoria_Historica.Master.designer.cs">
+      <DependentUpon>Memoria_Historica.Master</DependentUpon>
     </Compile>
     <Compile Include="Views\pasion_amazonas\inicio_pasion_amazonas.aspx.cs">
       <DependentUpon>inicio_pasion_amazonas.aspx</DependentUpon>
@@ -512,7 +683,6 @@
     <Folder Include="Controllers\" />
     <Folder Include="Views\burbuja_ambiental\" />
     <Folder Include="Views\copor\" />
-    <Folder Include="Views\memoria_historica\" />
     <Folder Include="Views\que_es_fe_en_colombia\" />
     <Folder Include="Views\turismo\" />
   </ItemGroup>

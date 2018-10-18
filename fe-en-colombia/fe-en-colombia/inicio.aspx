@@ -102,7 +102,7 @@
                               </li>
 
                               <li>
-                                  <a href="#">
+                                  <a href="Views/memoria_historica/memoria.aspx">
                                       
                                       Memoria  Histórica </a>
                               </li>
@@ -155,27 +155,33 @@
                   
                
                 <div class="imagen">
-                    <img src="Content/stylo_incio/img/pasion-caqueta.jpg" style="  width:80% ; height:50%;" ></div>
+                    <img src="Content/stylo_incio/img/LOGO%20VERTICAL%20CAQUETA.jpg" style="  width:80% ; height:50%;" />
+                   </div>
                 </a>
 
             </div>
+
+            <div class="col-lg-4">
+                <h1>Pasión Putumayo</h1>
+                <a href="Views/pasion_putumayo/inicio_pasion_putumayo.aspx">
+                <div class="imagen">
+                    <img src="Content/stylo_incio/img/LOGO%20VERTICAL%20PUTUMAYO%20-%20copia.jpg" style ="  width:80% ; height:50%;"   />
+                    
+                </div>
+                    </a>
+            </div>
+
             <div class="col-lg-4">
                 <h1>Pasión Amazonas</h1>
                 <a href="Views/pasion_amazonas/inicio_pasion_amazonas.aspx">
                     
                 <div class="imagen">
-                    <img src="Content/stylo_incio/img/pasion-amazonas.jpg" style="  width:80% ; height:50%;" >
+                    <img src="Content/stylo_incio/img/LOGO%20VERTICAL%20AMAZONAS.jpg" style="  width:80% ; height:50%;" />
+                   
                 </div>
                     </a>
             </div>
-            <div class="col-lg-4">
-                <h1>Pasión Putumayo</h1>
-                <a href="Views/pasion_putumayo/inicio_pasion_putumayo.aspx">
-                <div class="imagen">
-                    <img src="Content/stylo_incio/img/pasion-putumayo.jpg" style="  width:80% ; height:50%;"  >
-                </div>
-                    </a>
-            </div>
+            
         </div>
          
         
@@ -219,17 +225,26 @@
         <div class="aliados">
 
             <div class="owl-carousel owl-theme">
-                <div class="item">
-                     <a href="http://www.udla.edu.co/"  target="_blank" ><img src="Content/stylo_incio/img/logo-publico-privado/logo1.jpg" class="img-circle" /></a> 
+                <div class="item  ">
+                   
+                     <a href="http://www.udla.edu.co/"  target="_blank" ><img src="Content/stylo_incio/img/logo-publico-privado/logo1.jpg" class="img-circle" />
+
+
+                     </a> 
                    
                 </div>
                
-                 <div class="item">
-                    <a href="https://www.invima.gov.co/"  target="_blank" ><img src="Content/stylo_incio/img/logo-publico-privado/logo2.jpg" class="img-circle" /></a>
-                   
+                 <div class="item  ">
+                      
+                    <a href="https://www.invima.gov.co/"  target="_blank" >
+                        <img src="Content/stylo_incio/img/logo-publico-privado/logo2.jpg" class="img-circle" />
+
+
+                    </a>
+                  
                 </div>
 
-                 <div class="item">
+                 <div class="item ">
                     <a href="https://www.mintic.gov.co"  target="_blank" ><img src="Content/stylo_incio/img/logo-publico-privado/logo3.jpg" class="img-circle" /></a> 
                    
                 </div>
@@ -351,9 +366,15 @@
 
             <div class="row">
 
-                <div class="col-md-2">
+                <div class="col-md-2 ">
+
+
                     <a href="http://www.cgfm.mil.co/" target="_blank">
-                        <img src="Content/stylo_incio/img/logo-autoridades-militares-y-civiles/logo1.jpg" class="img-circle imgs " /></a>
+                        
+                        <img src="Content/stylo_incio/img/logo-autoridades-militares-y-civiles/logo1.jpg" class="img-circle imgs " />
+
+
+                    </a>
                 </div>
                 <div class="col-md-2">
                     <a href="#" target="_blank">
@@ -430,6 +451,8 @@
    
                <div class="col-lg-6">
 
+                   
+
         <h2>
             Cooperación Internacional:
 
@@ -440,29 +463,30 @@
             
             <div class="row">
 
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <a href="https://www.usaid.gov/" target="_blank">
                         <img src="Content/stylo_incio/img/logo-cooperacion-internacional/logo1.jpg" class="img-circle imgs " /></a>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <a href="#" target="_blank">
                         <img src="Content/stylo_incio/img/logo-cooperacion-internacional/logo2.jpg" class="img-circle imgs " /></a>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <a href="http://www.acdivoca.org.co" target="_blank">
                         <img src="Content/stylo_incio/img/logo-cooperacion-internacional/logo3.jpg" class="img-circle imgs " /></a>
                 </div>
-                <div class="col-md-2">
+                <div class="col-md-3">
                     <a href="https://www.giz.de/de/html/ueber_die_giz.html" target="_blank">
                         <img src="Content/stylo_incio/img/logo-cooperacion-internacional/logo4.jpg" class="img-circle imgs " /></a>
-                </div> <div class="col-md-2">
+                </div> 
+                <div class="col-md-3">
                     <a href="https://europa.eu/european-union/index_es" target="_blank">
                         <img src="Content/stylo_incio/img/logo-cooperacion-internacional/logo6.jpg" class="img-circle imgs " /></a>
                 </div>
                
             </div>   <br />
             
-
+           
 
         </div>
              </div>
@@ -531,18 +555,18 @@
             owl.trigger('stop.owl.autoplay')
         })</script>
      <script>
-            $(document).ready(function() {
-              var owl = $('.owl-carousel');
-             
-              owl.on('mousewheel', '.owl-stage', function(e) {
-                if (e.deltaY > 0) {
-                  owl.trigger('next.owl');
-                } else {
-                  owl.trigger('prev.owl');
-                }
-                e.preventDefault();
-              });
-            })
+         $(document).ready(function () {
+             var owl = $('.owl-carousel');
+
+             owl.on('mousewheel', '.owl-stage', function (e) {
+                 if (e.deltaY > 0) {
+                     owl.trigger('next.owl');
+                 } else {
+                     owl.trigger('prev.owl');
+                 }
+                 e.preventDefault();
+             });
+         })
           </script>
 
 

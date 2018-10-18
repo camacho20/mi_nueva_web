@@ -105,6 +105,30 @@ h2 {
     border-radius: 0;
 }
 
+.container-enlarge {
+    display: inline-block;
+    position: relative;
+    margin: 15px;
+}
+.container-enlarge > img {
+    height: auto;
+    max-width: 100%;
+    width: 150px;
+    border-radius: 5px;
+}
+.container-enlarge span {
+    position: absolute;
+    top: -9999em;
+    left: -9999em;
+}
+.container-enlarge:hover span {
+    top: -20px;
+    left: -55px;
+    width: 250px;
+}
+
+
+
 @media (max-width: 768px) {
 
     .navbar.navbar-transparent {

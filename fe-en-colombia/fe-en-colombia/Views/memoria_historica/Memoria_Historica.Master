@@ -1,0 +1,113 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Memoria_Historica.master.cs" Inherits="fe_en_colombia.Views.memoria_historica.Memoria_Historica" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <meta name="description" content="pagination">
+  <meta name="keywords" content="jquery, pagination, javascript, plugin" />
+    <!--     Fonts and icons     -->
+ 	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
+    <!-- Material Kit CSS -->
+    <link href="../../Content/stylo_memoria/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="../../Content/stylo_memoria/assets/css/demo.css" rel="stylesheet" />
+    <link href="../../Content/stylo_memoria/assets/css/material-kit.css" rel="stylesheet" />
+    <link href="../../Content/stylo_memoria/assets/css/animate.css" rel="stylesheet" />
+    <link href="../../Content/stylo_memoria/assets/css/github.css" rel="stylesheet" />
+    <link href="../../Content/stylo_memoria/assets/css/jPages.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+  <nav class="navbar navbar-color-on-scroll navbar-transparent fixed-top navbar-expand-lg" color-on-scroll="100">
+    <div class="container">
+      <div class="navbar-translate">
+        <a href="../../inicio.aspx" class="btn btn-success btn-round btn-primary btn-sm  ">
+          <i class="fas fa-arrow-circle-left"></i> Fe en Colombia
+      </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      
+      </div>
+      <div class="collapse navbar-collapse">
+          <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                  <a href="memoria.aspx" class="nav-link">
+                     <i class="far fa-question-circle"></i> ¿Qué es Memoria Histórica?
+            </a>
+              </li>
+             
+              <li class="nav-item">
+                  <a href="Boletines.aspx" class="nav-link">
+                      <i class="fas fa-history"></i> Boletin Histórico
+            </a>
+              </li>
+
+          </ul>
+      </div>
+  </div>
+  </nav>
+
+
+
+        <div>
+    
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+   </div>
+
+  <footer class="footer footer-default">
+    <div class="container">
+      <div class="copyright float-right">
+        &copy;
+        <script>
+          document.write(new Date().getFullYear())
+        </script> Autor
+      </div>
+    </div>
+  </footer>
+
+
+
+
+
+    </form>
+    <script src="../../Content/stylo_memoria/assets/js/bootstrap.min.js"></script>
+    <script src="../../Content/stylo_memoria/assets/js/jquery.min.js"></script>
+    <script src="../../Content/stylo_memoria/assets/js/material-kit.js"></script>
+    <script src="../../Content/stylo_memoria/assets/js/material.min.js"></script>
+    <script src="../../Content/stylo_memoria/assets/js/jPages.js"></script>
+    <script src="../../Content/stylo_memoria/assets/js/jquery-1.8.2.min.js"></script>
+    <script src="../../Content/stylo_memoria/assets/js/js.js"></script>
+    <script src="../../Content/stylo_memoria/assets/js/highlight.pack.js"></script>
+    <script src="../../Content/stylo_memoria/assets/js/tabifier.js"></script>
+    <script>
+        /* when document is ready */
+        $(function () {
+
+            /* initiate the plugin */
+            $("div.holder").jPages({
+                containerID: "itemContainer",
+                perPage: 10,
+                startPage: 1,
+                startRange: 1,
+                midRange: 5,
+                endRange: 1
+            });
+
+        });
+  </script>
+</body>
+</html>

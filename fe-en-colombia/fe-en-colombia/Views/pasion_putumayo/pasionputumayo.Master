@@ -48,14 +48,14 @@
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="inicio.html">
-                            <i class="material-icons">account_balance</i> ¿Que es Pasión Caquetá ?
+                            <i class="material-icons">account_balance</i> ¿Qué es Pasión Putumayo ?
                         </a>
                     </li>
 
                     <li>
 
                         <a href="noticias.html">
-                            <i class="fas fa-calendar-alt"></i> Conogrmas de actividades
+                            <i class="fas fa-calendar-alt"></i> Cronograma de actividades
                         </a>
 
                     </li>

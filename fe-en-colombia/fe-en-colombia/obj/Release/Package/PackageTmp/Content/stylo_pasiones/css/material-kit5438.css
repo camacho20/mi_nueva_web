@@ -2358,6 +2358,10 @@ select.form-control[multiple], .form-group.is-focused select.form-control[multip
   text-transform: uppercase;
   border-radius: 3px;
 }
+
+
+
+
 .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
   color: inherit;
   background-color: transparent;
@@ -2445,7 +2449,15 @@ select.form-control[multiple], .form-group.is-focused select.form-control[multip
 }
 .navbar .navbar-link:hover {
   color: inherit;
+  
 }
+
+.navbar.li.a:hover {
+    text-decoration: none;
+  background-color:#4caf50;
+}
+
+
 .navbar .btn {
   margin-top: 0;
   margin-bottom: 0;

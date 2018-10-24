@@ -310,14 +310,14 @@
     <Content Include="Content\stylo_incio\js\jquery.mousewheel.min.js" />
     <Content Include="Content\stylo_incio\js\modernizr.custom.86080.js" />
     <Content Include="Content\stylo_incio\js\owl.carousel.js" />
-    <Content Include="Content\stylo_memoria\assets\css\animate.css" />
-    <Content Include="Content\stylo_memoria\assets\css\bootstrap.min.css" />
-    <Content Include="Content\stylo_memoria\assets\css\demo.css" />
-    <Content Include="Content\stylo_memoria\assets\css\github.css" />
-    <Content Include="Content\stylo_memoria\assets\css\icon.css" />
-    <Content Include="Content\stylo_memoria\assets\css\jPages.css" />
+    <Content Include="Content\stylo_memoria\assets\css\estilos.css" />
+    <Content Include="Content\stylo_memoria\assets\css\font-awesome.min.css" />
+    <Content Include="Content\stylo_memoria\assets\css\jgallery.css" />
+    <Content Include="Content\stylo_memoria\assets\css\jgallery.min.css" />
     <Content Include="Content\stylo_memoria\assets\css\material-kit.css" />
-    <Content Include="Content\stylo_memoria\assets\css\style.css" />
+    <Content Include="Content\stylo_memoria\assets\css\material-kit.min.css" />
+    <Content Include="Content\stylo_memoria\assets\demo\demo.css" />
+    <Content Include="Content\stylo_memoria\assets\img\acerca.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva1.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva10.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva11.JPG" />
@@ -379,20 +379,29 @@
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva7.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva8.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva9.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\campe.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\etnia.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\lgt.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\lieapobla.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\lieneatrans.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\memoria.jpg" />
-    <Content Include="Content\stylo_memoria\assets\js\bootstrap-datepicker.js" />
-    <Content Include="Content\stylo_memoria\assets\js\bootstrap.min.js" />
-    <Content Include="Content\stylo_memoria\assets\js\highlight.pack.js" />
-    <Content Include="Content\stylo_memoria\assets\js\jPages.js" />
-    <Content Include="Content\stylo_memoria\assets\js\jPages.min.js" />
-    <Content Include="Content\stylo_memoria\assets\js\jquery-1.8.2.min.js" />
-    <Content Include="Content\stylo_memoria\assets\js\jquery.lazyload.js" />
-    <Content Include="Content\stylo_memoria\assets\js\jquery.min.js" />
-    <Content Include="Content\stylo_memoria\assets\js\js.js" />
+    <Content Include="Content\stylo_memoria\assets\img\momoriainicion.jpg" />
+    <Content Include="Content\stylo_memoria\assets\js\core\bootstrap-material-design.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\core\jquery.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\core\main.js" />
+    <Content Include="Content\stylo_memoria\assets\js\core\popper.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jgallery.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jgallery.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jquery-2.0.3.min.js" />
     <Content Include="Content\stylo_memoria\assets\js\material-kit.js" />
-    <Content Include="Content\stylo_memoria\assets\js\material.min.js" />
-    <Content Include="Content\stylo_memoria\assets\js\nouislider.min.js" />
-    <Content Include="Content\stylo_memoria\assets\js\tabifier.js" />
+    <Content Include="Content\stylo_memoria\assets\js\material-kit.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\plugins\bootstrap-datetimepicker.js" />
+    <Content Include="Content\stylo_memoria\assets\js\plugins\jquery.sharrre.js" />
+    <Content Include="Content\stylo_memoria\assets\js\plugins\moment.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\plugins\nouislider.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\tinycolor-0.9.16.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\touchswipe.js" />
+    <Content Include="Content\stylo_memoria\assets\js\touchswipe.min.js" />
     <Content Include="Content\stylo_pasiones\assets-for-demo\demo.css" />
     <Content Include="Content\stylo_pasiones\assets-for-demo\modernizr.js" />
     <Content Include="Content\stylo_pasiones\assets-for-demo\vertical-nav.css" />
@@ -401,6 +410,7 @@
     <Content Include="Content\stylo_pasiones\css\fondoamazonas.css" />
     <Content Include="Content\stylo_pasiones\css\fondocaqueta.css" />
     <Content Include="Content\stylo_pasiones\css\fondoputumayo.css" />
+    <Content Include="Content\stylo_pasiones\css\fondoturismo.css" />
     <Content Include="Content\stylo_pasiones\css\font-awesome.min.css" />
     <Content Include="Content\stylo_pasiones\css\galeria.css" />
     <Content Include="Content\stylo_pasiones\css\main2.css" />
@@ -472,57 +482,176 @@
     <Content Include="Content\stylo_incio\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="Content\stylo_incio\fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="Content\stylo_pasiones\css\main.css.map" />
-    <Content Include="Content\stylo_pasiones\img\partes del logo-caqueta\partes del logo Copy.lnk" />
-    <Content Include="Content\stylo_memoria\assets\css\.DS_Store" />
-    <Content Include="Content\stylo_memoria\assets\css\material-kit.css.map" />
-    <Content Include="Content\stylo_memoria\assets\js\.DS_Store" />
-    <Content Include="Content\stylo_memoria\assets\sass\.DS_Store" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\.DS_Store" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-datepicker.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-dropdownjs.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-nouislider.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-selectize.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\plugins\_plugin-snackbarjs.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_alerts.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_buttons.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_cards.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_carousel.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_checkboxes.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_colors.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_core.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_dialogs.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_dividers.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_dropdown.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_example-pages.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_footers.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_form.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_images.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_import-bs-less.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_import-bs-sass.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_info-areas.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_inputs-size.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_inputs.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_labels.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_lists.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_mixins.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_navbar.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_pagination.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_panels.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_pills.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_popups.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_progress.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_radios.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_ripples.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_sections.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_shadows.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_tabs.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_togglebutton.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_typography.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_variables.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_variables_bootstrap.scss" />
-    <Content Include="Content\stylo_memoria\assets\sass\material-kit\_welljumbo.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\bootstrap-grid.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\bootstrap-reboot.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\bootstrap.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_alert.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_background-variant.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_badge.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_border-radius.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_box-shadow.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_breakpoints.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_buttons.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_caret.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_clearfix.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_float.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_forms.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_gradients.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_grid-framework.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_grid.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_hover.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_image.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_list-group.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_lists.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_nav-divider.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_navbar-align.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_pagination.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_reset-text.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_resize.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_screen-reader.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_size.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_table-row.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_text-emphasis.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_text-hide.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_text-truncate.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_transition.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\mixins\_visibility.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_align.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_background.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_borders.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_clearfix.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_display.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_embed.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_flex.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_float.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_position.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_screenreaders.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_sizing.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_spacing.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_text.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\utilities\_visibility.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_alert.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_badge.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_breadcrumb.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_button-group.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_buttons.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_card.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_carousel.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_close.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_code.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_custom-forms.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_dropdown.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_forms.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_functions.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_grid.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_images.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_input-group.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_jumbotron.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_list-group.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_media.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_mixins.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_modal.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_nav.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_navbar.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_pagination.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_popover.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_print.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_progress.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_reboot.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_root.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_tables.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_tooltip.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_transitions.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_type.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_utilities.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\bootstrap\scss\_variables.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\cards\_card-carousel.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\cards\_card-login.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\cards\_card-plain.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_alert.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_animations.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_breakpoints.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_buttons.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_colored-shadows.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_drawer.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_forms.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_hover.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_layout.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_navbar-colors.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_navs.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_type.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\mixins\_utilities.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\plugins\_plugin-datetime-picker.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\plugins\_plugin-nouislider.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_body.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_bootstrap-material-design-base.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_bootstrap-material-design.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_brand.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_buttons.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_card.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_carousel.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_code.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_colors-map.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_colors.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_custom-forms.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_drawer.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_dropdown.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_forms.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_layout.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_list-group.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_menu.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_modals.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_nav.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_pagination.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_shadow.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_snackbar.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_spacing.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_state.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_tables.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_tooltip.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\variables\_type.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_alerts.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_badges.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_buttons.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_cards.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_carousel.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_checkboxes.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_core-bootstrap.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_custom-forms.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_drawer.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_dropdown.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_example-pages.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_footers.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_forms.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_headers.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_images.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_info-areas.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_input-group.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_layout.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_list-group.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_misc.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_mixins.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_modal.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_nav.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_navbar.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_pagination.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_pills.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_popover.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_progress.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_radios.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_reboot.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_responsive.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_ripples.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_switches.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_tabs.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_togglebutton.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_tooltip.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_type.scss" />
+    <Content Include="Content\stylo_memoria\assets\scss\material-kit\_variables.scss" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Memoria histórica ultima versión Copy.lnk" />
+    <Content Include="Content\stylo_memoria\assets\css\material-kit.css.map" />
+    <Content Include="Content\stylo_memoria\assets\js\material-kit.js.map" />
     <None Include="Properties\PublishProfiles\ocm.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="inicio.aspx" />
@@ -567,6 +696,12 @@
     <Content Include="Views\pasion_caqueta\inicio_pasion_caqueta.aspx" />
     <Content Include="Views\pasion_putumayo\inicio_pasion_putumayo.aspx" />
     <Content Include="video1.html" />
+    <Content Include="Views\que_es_fe_en_colombia\lienaspoblacional.aspx" />
+    <Content Include="Views\que_es_fe_en_colombia\lineaacercamiento.aspx" />
+    <Content Include="Views\que_es_fe_en_colombia\lineatransversal.aspx" />
+    <Content Include="Views\turismo\mapasitios.aspx" />
+    <Content Include="Views\turismo\sitiosmunicipios.aspx" />
+    <Content Include="Views\turismo\turisdefi.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <Content Include="packages.config" />
@@ -576,6 +711,8 @@
     <Content Include="Views\pasion_caqueta\pasioncaqueta.Master" />
     <Content Include="Views\pasion_putumayo\pasionputumayo.Master" />
     <Content Include="Views\memoria_historica\Memoria_Historica.Master" />
+    <Content Include="Views\turismo\SitiosTuristicos.Master" />
+    <Content Include="Views\que_es_fe_en_colombia\feencolombia.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -672,6 +809,62 @@
     <Compile Include="Views\pasion_putumayo\pasionputumayo.Master.designer.cs">
       <DependentUpon>pasionputumayo.Master</DependentUpon>
     </Compile>
+    <Compile Include="Views\que_es_fe_en_colombia\feencolombia.Master.cs">
+      <DependentUpon>feencolombia.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\que_es_fe_en_colombia\feencolombia.Master.designer.cs">
+      <DependentUpon>feencolombia.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Views\que_es_fe_en_colombia\lienaspoblacional.aspx.cs">
+      <DependentUpon>lienaspoblacional.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\que_es_fe_en_colombia\lienaspoblacional.aspx.designer.cs">
+      <DependentUpon>lienaspoblacional.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\que_es_fe_en_colombia\lineaacercamiento.aspx.cs">
+      <DependentUpon>lineaacercamiento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\que_es_fe_en_colombia\lineaacercamiento.aspx.designer.cs">
+      <DependentUpon>lineaacercamiento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\que_es_fe_en_colombia\lineatransversal.aspx.cs">
+      <DependentUpon>lineatransversal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\que_es_fe_en_colombia\lineatransversal.aspx.designer.cs">
+      <DependentUpon>lineatransversal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\mapasitios.aspx.cs">
+      <DependentUpon>mapasitios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\mapasitios.aspx.designer.cs">
+      <DependentUpon>mapasitios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\sitiosmunicipios.aspx.cs">
+      <DependentUpon>sitiosmunicipios.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\sitiosmunicipios.aspx.designer.cs">
+      <DependentUpon>sitiosmunicipios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\SitiosTuristicos.Master.cs">
+      <DependentUpon>SitiosTuristicos.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\SitiosTuristicos.Master.designer.cs">
+      <DependentUpon>SitiosTuristicos.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\turisdefi.aspx.cs">
+      <DependentUpon>turisdefi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\turisdefi.aspx.designer.cs">
+      <DependentUpon>turisdefi.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -683,8 +876,6 @@
     <Folder Include="Controllers\" />
     <Folder Include="Views\burbuja_ambiental\" />
     <Folder Include="Views\copor\" />
-    <Folder Include="Views\que_es_fe_en_colombia\" />
-    <Folder Include="Views\turismo\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

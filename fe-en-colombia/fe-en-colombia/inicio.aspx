@@ -91,13 +91,13 @@
                                      <b class="caret"></b>
                                   </a>
                                   <ul class="dropdown-menu">
-                                      <li><a href="#">Líneas Poblacional</a></li>
+                                      <li><a href="Views/que_es_fe_en_colombia/lienaspoblacional.aspx">Lineas Poblacional</a></li>
                                       <li class="divider"></li>
-                                      <li><a href="#">Líneas de Acercamiento</a></li>
+                                      <li><a href="Views/que_es_fe_en_colombia/lineaacercamiento.aspx">Lineas de Acercamiento</a></li>
                                       <li class="divider"></li>
-                                      <li><a href="#">Líneas Transversal </a></li>
+                                      <li><a href="Views/que_es_fe_en_colombia/lineatransversal.aspx">Línea Transversal </a></li>
                                       <li class="divider"></li>
-                                     
+                                      
                                   </ul>
                               </li>
 
@@ -112,8 +112,9 @@
                                      
                               </li>
                               <li>
-                                  <a href="#">Turismo</a>
+                                  <a href="Views/turismo/turisdefi.aspx">Turismo</a>
                               </li>
+                             
                               <li>
                                   <a href="#">Envíanos Tu Proyecto </a>
                               </li>

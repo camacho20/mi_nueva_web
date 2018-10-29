@@ -6,6 +6,8 @@
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>Enviar Proyecto</title>
+
+    
     <!--     Fonts and icons     -->
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css">
@@ -102,9 +104,9 @@
        <br />
                     <div class="col-md-12 ">
                                 <div class="row">
-                                    <div class="col-md-7 " style="align-items:center;">
+                                    <div class="col-md-7 " >
 
-                                        <img src="../../Content/stylo_memoria/assets/img/reu.jpg" class="img-responsive" style="width: 600px; height:380px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/reu.jpg" class="img-responsive" style="width: 100%; height:90%;" />
                                      
                                     </div>
                                     
@@ -136,8 +138,9 @@
 
 
                                         <div class="input-group">
-                                          
+                                            
                                             <input id="archivo" type="file"  runat="server"/>
+
                                         </div>
                                         <br />
 

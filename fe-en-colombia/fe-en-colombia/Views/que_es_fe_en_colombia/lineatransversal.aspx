@@ -24,8 +24,8 @@
             <div class="section section-tabs">
 
                 <div class="card card-nav-tabs card-plain">
-                    <div class="row">
-                        <div class="col-md-3 col-md-offset-0">
+                 
+                        <div class="col-md-12">
 
                             <div class="card-header card-header-success">
                                 <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
@@ -52,7 +52,6 @@
                             </div>
                         </div>
 
-                        <div class="col-md-9">
 
                             <div class="card-body ">
                                 <div class="tab-content text-center">
@@ -63,7 +62,7 @@
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/aser.jpg" class="img-responsive" style="width: 600px; height: 310px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/aser.jpg" class="img-responsive"  style="width: 50%; height: 20%;" />
 
 
 
@@ -83,7 +82,7 @@
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/fami.jpg" class="img-responsive" style="width: 600px; height: 330px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/fami.jpg" class="img-responsive"  style="width: 50%; height: 20%;" />
 
 
 
@@ -99,7 +98,7 @@
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/jue.jpg" class="img-responsive" style="width: 600px; height: 330px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/jue.jpg" class="img-responsive"  style="width: 50%; height: 20%;" />
 
 
 
@@ -116,7 +115,7 @@
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/estu.jpg" class="img-responsive" style="width: 600px; height: 300px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/estu.jpg" class="img-responsive" style="width: 50%; height: 20%;" />
 
 
 
@@ -144,8 +143,7 @@
                             </div>
                         </div>
 
-                    </div>
-                </div>
+                  
 
 
 

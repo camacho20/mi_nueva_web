@@ -16,6 +16,13 @@
     <link href="../../Content/stylo_pasiones/css/material-kit5438.css" rel="stylesheet" />
     <link href="../../Content/main.css" rel="stylesheet" />
     <link href="../../Content/stylo_pasiones/css/fondoturismo.css" rel="stylesheet" />
+
+      <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+    <link href="../../Content/stylo_pasiones/css/jquery.gmaps.css" rel="stylesheet" />
+
+
+
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
@@ -43,19 +50,7 @@
 
                 <div class="navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="turisdefi.aspx">
-                                <i class="fab fa-pagelines"></i>  Caquetá un paraiso por descubrir
-                            </a>
-                        </li>
-
-                        <li>
-
-                            <a href="sitiosmunicipios.aspx">
-                                <i class="fas fa-map-marker-alt"></i> Sitios Turísticos por Municipios
-                            </a>
-                           
-                        </li>
+                        
 
                         <li>
                             <a href="mapasitios.aspx">
@@ -101,69 +96,11 @@
     <script src="../../Content/stylo_pasiones/js/bootstrap.min.js"></script>
     <script src="../../Content/stylo_pasiones/js/material.min.js"></script>
 
+     <script src="http://code.jquery.com/jquery-3.2.1.js"></script>
 
+    <script src="../../Content/stylo_pasiones/js/jquery.gmaps.js"></script>
     <!--  Plugin for Date Time Picker and Full Calendar Plugin-->
-    <script src="../../Content/stylo_pasiones/js/moment.min.js"></script>
-
-    <!--	Plugin for the Sliders, full documentation here: http://refreshless.com/nouislider/ -->
-    <script src="../../Content/stylo_pasiones/js/nouislider.min.js"></script>
-
-    <!--	Plugin for the Datepicker, full documentation here: https://github.com/Eonasdan/bootstrap-datetimepicker -->
-    <script src="../../Content/stylo_pasiones/js/bootstrap-datetimepicker.js"></script>
-
-    <!--	Plugin for Select, full documentation here: http://silviomoreto.github.io/bootstrap-select -->
-    <script src="../../Content/stylo_pasiones/js/bootstrap-selectpicker.js"></script>
-
-    <!--	Plugin for Tags, full documentation here: http://xoxco.com/projects/code/tagsinput/  -->
-    <script src="../../Content/stylo_pasiones/js/bootstrap-tagsinput.js"></script>
-
-    <!--	Plugin for Fileupload, full documentation here: http://www.jasny.net/bootstrap/javascript/#fileinput -->
-
-    <script src="../../Content/stylo_pasiones/js/jasny-bootstrap.min.js"></script>
-
-    <!-- Plugin For Google Maps -->
-    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAFPQibxeDaLIUHsC6_KqDdFaUdhrbhZ3M"></script>
-
-    <!-- Control Center for Material Kit: activating the ripples, parallax effects, scripts from the example pages etc -->
-
     <script src="../../Content/stylo_pasiones/js/material-kit5438.js"></script>
-
-    <!-- Fixed Sidebar Nav - JS For Demo Purpose, Don't Include it in your project -->
-
-    <script src="../../Content/stylo_pasiones/js/modernizr.js"></script>
-    <script src="../../Content/stylo_pasiones/js/vertical-nav.js"></script>
-
-    <script type="text/javascript">
-
-        $(document).ready(function () {
-            var slider = document.getElementById('sliderRegular');
-
-            noUiSlider.create(slider, {
-                start: 40,
-                connect: [true, false],
-                range: {
-                    min: 0,
-                    max: 100
-                }
-            });
-
-            var slider2 = document.getElementById('sliderDouble');
-
-            noUiSlider.create(slider2, {
-                start: [20, 60],
-                connect: true,
-                range: {
-                    min: 0,
-                    max: 100
-                }
-            });
-
-
-
-            materialKit.initFormExtendedDatetimepickers();
-
-        });
-    </script>
 
 
 </body>

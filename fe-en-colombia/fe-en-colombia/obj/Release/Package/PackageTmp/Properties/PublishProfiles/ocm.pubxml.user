@@ -29,28 +29,28 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>07/16/2013 20:06:22</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
-      <publishTime>03/02/2015 09:32:26</publishTime>
+      <publishTime>02/03/2015 09:32:26</publishTime>
     </File>
     <File Include="bin/EntityFramework.SqlServer.dll">
-      <publishTime>03/02/2015 09:32:26</publishTime>
+      <publishTime>02/03/2015 09:32:26</publishTime>
     </File>
     <File Include="bin/es/EntityFramework.resources.dll">
-      <publishTime>03/02/2015 09:32:42</publishTime>
+      <publishTime>02/03/2015 09:32:42</publishTime>
     </File>
     <File Include="bin/es/EntityFramework.SqlServer.resources.dll">
-      <publishTime>03/02/2015 09:32:42</publishTime>
+      <publishTime>02/03/2015 09:32:42</publishTime>
     </File>
     <File Include="bin/es/Microsoft.AspNet.FriendlyUrls.resources.dll">
       <publishTime>07/30/2013 17:01:46</publishTime>
     </File>
     <File Include="bin/es/Microsoft.AspNet.Identity.Core.resources.dll">
-      <publishTime>04/03/2015 17:09:40</publishTime>
+      <publishTime>03/04/2015 17:09:40</publishTime>
     </File>
     <File Include="bin/es/Microsoft.AspNet.Identity.EntityFramework.resources.dll">
-      <publishTime>04/03/2015 17:09:40</publishTime>
+      <publishTime>03/04/2015 17:09:40</publishTime>
     </File>
     <File Include="bin/es/Microsoft.AspNet.Identity.Owin.resources.dll">
-      <publishTime>04/03/2015 17:09:40</publishTime>
+      <publishTime>03/04/2015 17:09:40</publishTime>
     </File>
     <File Include="bin/es/Microsoft.Owin.Host.SystemWeb.resources.dll">
       <publishTime>02/13/2015 13:24:10</publishTime>
@@ -89,7 +89,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>01/28/2015 04:02:24</publishTime>
     </File>
     <File Include="bin/es/System.Web.Optimization.resources.dll">
-      <publishTime>02/11/2014 15:28:40</publishTime>
+      <publishTime>11/02/2014 15:28:40</publishTime>
     </File>
     <File Include="bin/es/System.Web.Razor.resources.dll">
       <publishTime>01/28/2015 04:02:36</publishTime>
@@ -104,43 +104,43 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>01/28/2015 04:04:36</publishTime>
     </File>
     <File Include="bin/fe-en-colombia.dll">
-      <publishTime>10/04/2018 13:56:32</publishTime>
+      <publishTime>10/26/2018 18:58:51</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
-      <publishTime>12/07/2015 19:04:38</publishTime>
+      <publishTime>07/12/2015 19:04:38</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.DependencyCollector.dll">
-      <publishTime>03/10/2016 14:26:18</publishTime>
+      <publishTime>10/03/2016 14:26:18</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>10/03/2016 14:26:26</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
-      <publishTime>03/09/2016 12:00:14</publishTime>
+      <publishTime>09/03/2016 12:00:14</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Web.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>10/03/2016 14:26:26</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.WindowsServer.dll">
-      <publishTime>03/10/2016 14:26:26</publishTime>
+      <publishTime>10/03/2016 14:26:26</publishTime>
     </File>
     <File Include="bin/Microsoft.ApplicationInsights.dll">
-      <publishTime>03/09/2016 11:57:34</publishTime>
+      <publishTime>09/03/2016 11:57:34</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
       <publishTime>07/30/2013 16:57:30</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
-      <publishTime>04/03/2015 17:07:22</publishTime>
+      <publishTime>03/04/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
-      <publishTime>04/03/2015 17:07:22</publishTime>
+      <publishTime>03/04/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
-      <publishTime>04/03/2015 17:07:22</publishTime>
+      <publishTime>03/04/2015 17:07:22</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
-      <publishTime>02/11/2014 15:26:04</publishTime>
+      <publishTime>11/02/2014 15:26:04</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>06/15/2015 02:06:24</publishTime>
@@ -173,16 +173,16 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>02/13/2015 13:16:42</publishTime>
     </File>
     <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
-      <publishTime>09/06/2013 11:20:12</publishTime>
+      <publishTime>06/09/2013 11:20:12</publishTime>
     </File>
     <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
-      <publishTime>09/06/2013 11:20:22</publishTime>
+      <publishTime>06/09/2013 11:20:22</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>01/05/2012 11:08:46</publishTime>
+      <publishTime>05/01/2012 11:08:46</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>08/03/2014 20:33:56</publishTime>
+      <publishTime>03/08/2014 20:33:56</publishTime>
     </File>
     <File Include="bin/Owin.dll">
       <publishTime>11/27/2012 13:00:52</publishTime>
@@ -239,7 +239,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>01/28/2015 04:02:18</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>02/11/2014 15:26:04</publishTime>
+      <publishTime>11/02/2014 15:26:04</publishTime>
     </File>
     <File Include="bin/System.Web.Providers.dll">
       <publishTime>11/22/2013 10:21:56</publishTime>
@@ -257,22 +257,25 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>09/10/2013 17:28:38</publishTime>
+      <publishTime>10/09/2013 17:28:38</publishTime>
     </File>
     <File Include="Bundle.config">
       <publishTime>09/30/2018 08:57:24</publishTime>
     </File>
     <File Include="Content/main.css">
-      <publishTime>10/03/2018 23:17:47</publishTime>
+      <publishTime>03/10/2018 23:17:47</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/bootstrap.css">
       <publishTime>09/30/2018 10:29:56</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/bootstrap.min.css">
-      <publishTime>09/30/2018 09:01:57</publishTime>
+      <publishTime>10/25/2018 17:48:21</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/demo.css">
-      <publishTime>10/03/2018 07:40:42</publishTime>
+      <publishTime>03/10/2018 07:40:42</publishTime>
+    </File>
+    <File Include="Content/stylo_incio/css/estilos.css">
+      <publishTime>10/26/2018 18:38:41</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/font-awesome.min.css">
       <publishTime>09/30/2018 09:01:57</publishTime>
@@ -293,13 +296,13 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 09:01:57</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/full.css">
-      <publishTime>10/03/2018 07:40:13</publishTime>
+      <publishTime>10/07/2018 15:14:04</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/lightbox.min.css">
       <publishTime>09/30/2018 13:20:10</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/owl.carousel.css">
-      <publishTime>09/30/2018 22:36:17</publishTime>
+      <publishTime>10/07/2018 15:29:08</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/owl.theme.default.min.css">
       <publishTime>09/30/2018 09:01:57</publishTime>
@@ -356,22 +359,31 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 09:01:58</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/fondo1.JPG.jpeg">
-      <publishTime>09/30/2018 09:01:58</publishTime>
+      <publishTime>10/25/2018 17:09:40</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/fondo2.JPG">
-      <publishTime>09/30/2018 09:01:58</publishTime>
+      <publishTime>10/25/2018 17:09:27</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/IMG_2795.JPG">
-      <publishTime>09/30/2018 09:01:58</publishTime>
+      <publishTime>10/25/2018 17:09:13</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/IMG_3171.JPG">
-      <publishTime>09/30/2018 09:01:58</publishTime>
+      <publishTime>10/25/2018 17:08:32</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/IMG_6802.JPG">
-      <publishTime>09/30/2018 09:01:58</publishTime>
+      <publishTime>10/25/2018 17:07:46</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/lgoinicio2.png">
       <publishTime>09/30/2018 09:01:59</publishTime>
+    </File>
+    <File Include="Content/stylo_incio/img/LOGO VERTICAL AMAZONAS.jpg">
+      <publishTime>10/07/2018 16:52:13</publishTime>
+    </File>
+    <File Include="Content/stylo_incio/img/LOGO VERTICAL CAQUETA.jpg">
+      <publishTime>10/07/2018 16:02:34</publishTime>
+    </File>
+    <File Include="Content/stylo_incio/img/LOGO VERTICAL PUTUMAYO - copia.jpg">
+      <publishTime>10/07/2018 16:53:23</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/logo-autoridades-militares-y-civiles/logo1.jpg">
       <publishTime>09/30/2018 20:03:23</publishTime>
@@ -467,7 +479,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 17:51:38</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/logo-publico-privado/logo19.jpg">
-      <publishTime>09/30/2018 17:56:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/logo-publico-privado/logo2.jpg">
       <publishTime>09/30/2018 09:01:59</publishTime>
@@ -527,16 +539,16 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 09:01:59</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/mono1.JPG">
-      <publishTime>09/30/2018 09:01:59</publishTime>
+      <publishTime>10/25/2018 17:08:20</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/pasion-amazonas.jpg">
-      <publishTime>09/30/2018 09:01:59</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/pasion-caqueta.jpg">
-      <publishTime>09/30/2018 09:01:59</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/pasion-putumayo.jpg">
-      <publishTime>09/30/2018 09:01:59</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_incio/js/bootstrap.js">
       <publishTime>09/30/2018 09:01:59</publishTime>
@@ -559,6 +571,9 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     <File Include="Content/stylo_incio/js/ightbox.js">
       <publishTime>09/30/2018 13:22:14</publishTime>
     </File>
+    <File Include="Content/stylo_incio/js/jquery-latest.js">
+      <publishTime>10/26/2018 18:14:54</publishTime>
+    </File>
     <File Include="Content/stylo_incio/js/jquery.js">
       <publishTime>09/30/2018 09:01:59</publishTime>
     </File>
@@ -566,310 +581,1228 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 14:36:36</publishTime>
     </File>
     <File Include="Content/stylo_incio/js/jquery.mousewheel.min.js">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_incio/js/main.js">
+      <publishTime>10/26/2018 18:08:13</publishTime>
     </File>
     <File Include="Content/stylo_incio/js/modernizr.custom.86080.js">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_incio/js/owl.carousel.js">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/css/estilos.css">
+      <publishTime>10/22/2018 08:43:08</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/css/font-awesome.min.css">
+      <publishTime>10/18/2018 19:19:46</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/css/jgallery.css">
+      <publishTime>10/20/2018 15:25:50</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/css/jgallery.min.css">
+      <publishTime>10/18/2018 20:13:19</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/css/main.css">
+      <publishTime>10/24/2018 18:07:27</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/css/material-kit.css">
+      <publishTime>10/23/2018 10:40:52</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/css/material-kit.css.map">
+      <publishTime>10/18/2018 19:51:20</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/css/material-kit.min.css">
+      <publishTime>10/18/2018 19:51:20</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/demo/demo.css">
+      <publishTime>10/18/2018 18:14:04</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/acerca.jpg">
+      <publishTime>10/20/2018 16:16:38</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/aser.jpg">
+      <publishTime>10/23/2018 18:55:10</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva1.JPG">
+      <publishTime>09/14/2018 15:57:24</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva10.JPG">
+      <publishTime>09/14/2018 15:57:30</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva11.JPG">
+      <publishTime>09/14/2018 15:57:32</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva12.JPG">
+      <publishTime>09/14/2018 15:57:32</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva13.JPG">
+      <publishTime>09/14/2018 15:57:34</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva14.JPG">
+      <publishTime>09/14/2018 15:57:34</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva15.JPG">
+      <publishTime>09/14/2018 15:57:36</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva16.JPG">
+      <publishTime>09/14/2018 15:57:36</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva17.JPG">
+      <publishTime>09/14/2018 15:57:38</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva18.JPG">
+      <publishTime>09/14/2018 15:57:38</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva19.JPG">
+      <publishTime>09/14/2018 15:57:40</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva2.JPG">
+      <publishTime>09/14/2018 15:57:24</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva20.JPG">
+      <publishTime>09/14/2018 15:57:40</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva21.JPG">
+      <publishTime>09/14/2018 15:57:42</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva22.JPG">
+      <publishTime>09/14/2018 15:57:42</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva23.JPG">
+      <publishTime>09/14/2018 15:57:42</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva24.JPG">
+      <publishTime>09/14/2018 15:57:44</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva25.JPG">
+      <publishTime>09/14/2018 15:57:44</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva26.JPG">
+      <publishTime>09/14/2018 15:57:44</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva27.JPG">
+      <publishTime>09/14/2018 15:57:46</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva28.JPG">
+      <publishTime>09/14/2018 15:57:46</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva29.JPG">
+      <publishTime>09/14/2018 15:57:46</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva3.JPG">
+      <publishTime>09/14/2018 15:57:26</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva30.JPG">
+      <publishTime>09/14/2018 15:57:48</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva31.JPG">
+      <publishTime>09/14/2018 15:57:48</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva32.JPG">
+      <publishTime>09/14/2018 15:57:50</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva33.JPG">
+      <publishTime>09/14/2018 15:57:50</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva34.JPG">
+      <publishTime>09/14/2018 15:57:50</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva35.JPG">
+      <publishTime>09/14/2018 15:57:52</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva36.JPG">
+      <publishTime>09/14/2018 15:57:52</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva37.JPG">
+      <publishTime>09/14/2018 15:57:54</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva38.JPG">
+      <publishTime>09/14/2018 16:15:52</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva39.JPG">
+      <publishTime>09/14/2018 15:57:56</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva4.JPG">
+      <publishTime>09/14/2018 15:57:26</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva40.JPG">
+      <publishTime>09/14/2018 15:57:56</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva41.JPG">
+      <publishTime>09/14/2018 15:57:56</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva42.JPG">
+      <publishTime>09/14/2018 15:57:58</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva43.JPG">
+      <publishTime>09/14/2018 15:57:58</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva45.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva46.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva47.JPG">
+      <publishTime>09/14/2018 15:58:02</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva48.JPG">
+      <publishTime>09/14/2018 15:58:02</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva5.JPG">
+      <publishTime>09/14/2018 15:57:26</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva50.JPG">
+      <publishTime>09/14/2018 15:58:04</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva51.JPG">
+      <publishTime>09/14/2018 15:58:04</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva52.JPG">
+      <publishTime>09/14/2018 15:58:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva53.JPG">
+      <publishTime>09/14/2018 15:58:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva54.JPG">
+      <publishTime>09/14/2018 15:58:08</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva55.JPG">
+      <publishTime>09/14/2018 15:58:08</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva56.JPG">
+      <publishTime>09/14/2018 15:58:10</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva57.JPG">
+      <publishTime>09/14/2018 15:58:10</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva58.JPG">
+      <publishTime>09/14/2018 15:58:12</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva59.JPG">
+      <publishTime>09/14/2018 15:58:12</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva6.JPG">
+      <publishTime>09/14/2018 15:57:28</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva60.JPG">
+      <publishTime>09/14/2018 15:58:12</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva61.JPG">
+      <publishTime>09/14/2018 15:58:14</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva62.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva63.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva7.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva8.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva9.JPG">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Memoria histórica ultima versión Copy.lnk">
+      <publishTime>09/14/2018 16:30:02</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/campe.jpg">
+      <publishTime>10/23/2018 10:56:58</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/campesino.jpg">
+      <publishTime>10/23/2018 18:10:04</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/cons.jpg">
+      <publishTime>10/23/2018 18:16:46</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/env.jpg">
+      <publishTime>10/24/2018 18:30:11</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/estu.jpg">
+      <publishTime>10/23/2018 19:05:18</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/etnia.jpg">
+      <publishTime>10/23/2018 11:41:14</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/fami.jpg">
+      <publishTime>10/23/2018 18:59:23</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/jue.jpg">
+      <publishTime>10/23/2018 19:02:43</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/lgt.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/lieapobla.jpg">
+      <publishTime>10/20/2018 15:59:32</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/lieneatrans.jpg">
+      <publishTime>10/20/2018 16:24:36</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/medio.jpg">
+      <publishTime>10/23/2018 18:18:28</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/memoria.jpg">
+      <publishTime>10/18/2018 18:18:32</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/momoriainicion.jpg">
+      <publishTime>10/20/2018 14:40:42</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/mujer.jpg">
+      <publishTime>10/23/2018 11:53:17</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/reu.jpg">
+      <publishTime>10/25/2018 12:21:12</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/victi.jpg">
+      <publishTime>10/23/2018 11:48:26</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/core/bootstrap-material-design.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/core/jquery.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/core/main.js">
+      <publishTime>10/22/2018 08:38:03</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/core/popper.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/jgallery.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/jgallery.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/jquery-2.0.3.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/material-kit.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/material-kit.js.map">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/material-kit.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/plugins/bootstrap-datetimepicker.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/plugins/jquery.sharrre.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/plugins/moment.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/plugins/nouislider.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/tinycolor-0.9.16.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/touchswipe.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/touchswipe.min.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/bootstrap-grid.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/bootstrap-reboot.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/bootstrap.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_alert.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_background-variant.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_badge.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_border-radius.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_box-shadow.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_breakpoints.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_buttons.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_caret.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_clearfix.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_float.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_forms.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_gradients.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_grid-framework.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_grid.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_hover.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_image.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_list-group.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_lists.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_nav-divider.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_navbar-align.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_pagination.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_reset-text.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_resize.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_screen-reader.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_size.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_table-row.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_text-emphasis.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_text-hide.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_text-truncate.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_transition.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/mixins/_visibility.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_align.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_background.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_borders.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_clearfix.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_display.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_embed.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_flex.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_float.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_position.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_screenreaders.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_sizing.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_spacing.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_text.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/utilities/_visibility.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_alert.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_badge.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_breadcrumb.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_button-group.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_buttons.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_card.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_carousel.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_close.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_code.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_custom-forms.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_dropdown.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_forms.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_functions.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_grid.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_images.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_input-group.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_jumbotron.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_list-group.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_media.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_mixins.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_modal.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_nav.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_navbar.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_pagination.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_popover.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_print.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_progress.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_reboot.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_root.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_tables.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_tooltip.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_transitions.scss">
+      <publishTime>10/18/2018 18:14:05</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_type.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_utilities.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/bootstrap/scss/_variables.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/cards/_card-carousel.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/cards/_card-login.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/cards/_card-plain.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_alert.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_animations.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_breakpoints.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_buttons.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_colored-shadows.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_drawer.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_forms.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_hover.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_layout.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_navbar-colors.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_navs.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_type.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/mixins/_utilities.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/plugins/_plugin-datetime-picker.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/plugins/_plugin-nouislider.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_body.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_bootstrap-material-design-base.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_bootstrap-material-design.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_brand.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_buttons.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_card.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_carousel.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_code.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_colors-map.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_colors.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_custom-forms.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_drawer.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_dropdown.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_forms.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_layout.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_list-group.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_menu.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_modals.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_nav.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_pagination.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_shadow.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_snackbar.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_spacing.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_state.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_tables.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_tooltip.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/variables/_type.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_alerts.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_badges.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_buttons.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_cards.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_carousel.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_checkboxes.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_core-bootstrap.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_custom-forms.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_drawer.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_dropdown.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_example-pages.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_footers.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_forms.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_headers.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_images.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_info-areas.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_input-group.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_layout.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_list-group.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_misc.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_mixins.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_modal.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_nav.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_navbar.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_pagination.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_pills.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_popover.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_progress.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_radios.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_reboot.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_responsive.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_ripples.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_switches.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_tabs.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_togglebutton.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_tooltip.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_type.scss">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/scss/material-kit/_variables.scss">
+      <publishTime>10/18/2018 18:14:06</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/assets-for-demo/demo.css">
-      <publishTime>10/17/2017 18:28:22</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/assets-for-demo/modernizr.js">
-      <publishTime>10/17/2017 18:28:22</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/assets-for-demo/vertical-nav.css">
-      <publishTime>10/17/2017 18:28:22</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/assets-for-demo/vertical-nav.js">
-      <publishTime>10/17/2017 18:28:22</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/bootstrap.min.css">
-      <publishTime>10/17/2017 18:28:22</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/fondoamazonas.css">
-      <publishTime>10/04/2018 13:38:56</publishTime>
+      <publishTime>04/10/2018 13:38:56</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/fondocaqueta.css">
-      <publishTime>10/03/2018 23:53:22</publishTime>
+      <publishTime>03/10/2018 23:53:22</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/fondoputumayo.css">
-      <publishTime>10/04/2018 13:38:57</publishTime>
+      <publishTime>04/10/2018 13:38:57</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/css/fondoturismo.css">
+      <publishTime>10/18/2018 21:39:10</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/font-awesome.min.css">
-      <publishTime>10/17/2017 18:28:22</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/galeria.css">
-      <publishTime>10/03/2018 13:38:07</publishTime>
+      <publishTime>03/10/2018 13:38:07</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/css/jquery.gmaps.css">
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/main.css.map">
-      <publishTime>10/17/2017 18:28:22</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/main2.css">
-      <publishTime>08/30/2018 21:59:54</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/css/material-kit5438.css">
-      <publishTime>10/03/2018 23:53:22</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/arrow-left.cur">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/arrow-left.png">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/arrow-right.cur">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/arrow-right.png">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/caqueta.JPG">
-      <publishTime>08/23/2018 11:25:14</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/cd-arrow-bottom.svg">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/fondo.jpg">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/IMG_2694.JPG">
-      <publishTime>08/27/2018 15:52:38</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/IMG_9564.JPG">
-      <publishTime>03/24/2018 06:55:32</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/LOGO HORIZONTAL AMAZONAS - fondo negro.jpg">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/LOGO HORIZONTAL CAQUETA.jpg">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/LOGO HORIZONTAL PUTUMAYO - fondo negro.jpg">
-      <publishTime>09/30/2018 09:02:00</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/LOGO VERTICAL AMAZONAS.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/LOGO VERTICAL CAQUETA.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/LOGO VERTICAL PUTUMAYO - copia.jpg">
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/LOGO-CAQUETA.jpg">
-      <publishTime>09/13/2018 23:36:12</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/criptograma.jpg">
+      <publishTime>10/07/2018 17:30:19</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/delfin.jpg">
+      <publishTime>10/07/2018 17:24:57</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/indioamazonico.jpg">
+      <publishTime>10/07/2018 17:27:43</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/multi.jpg">
+      <publishTime>10/07/2018 17:29:05</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/victoria.jpg">
+      <publishTime>10/07/2018 17:25:52</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/manual pasion caqueta-3.jpg">
-      <publishTime>10/25/2017 15:24:28</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/manual pasion caqueta-diosa.jpg">
-      <publishTime>10/25/2017 15:24:28</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/manual pasion caqueta-heroe.jpg">
-      <publishTime>10/25/2017 15:24:30</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/manual pasion caqueta-rio.jpg">
-      <publishTime>10/25/2017 15:24:30</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/partes del logo Copy.lnk">
-      <publishTime>09/14/2018 16:31:40</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/bandera.jpg">
+      <publishTime>10/07/2018 17:19:59</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/cascada.jpg">
+      <publishTime>10/07/2018 17:12:58</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/colibri.jpg">
+      <publishTime>10/07/2018 17:12:04</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/fe_causa.jpg">
+      <publishTime>10/07/2018 17:22:01</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/inga.jpg">
+      <publishTime>10/07/2018 17:16:55</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/macara.jpg">
+      <publishTime>10/07/2018 17:15:06</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/atv-img-animation.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/bootstrap-datetimepicker.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/bootstrap-selectpicker.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/bootstrap-tagsinput.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/bootstrap.min.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/buttons.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/galeria.js">
-      <publishTime>10/03/2018 13:39:32</publishTime>
+      <publishTime>03/10/2018 13:39:32</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/jasny-bootstrap.min.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/jquery-2.1.4.min.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/jquery-3.2.1.js">
-      <publishTime>10/03/2018 13:38:59</publishTime>
+      <publishTime>03/10/2018 13:38:59</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/jquery.flexisel.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Content/stylo_pasiones/js/jquery.gmaps.js">
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/jquery.min.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/main.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/material-kit5438.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/material.min.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/moment.min.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/nouislider.min.js">
-      <publishTime>10/17/2017 18:28:24</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>09/30/2018 08:57:24</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>09/30/2018 08:57:44</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>09/30/2018 08:57:44</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>09/30/2018 08:57:44</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>09/30/2018 08:57:44</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Global.asax">
       <publishTime>09/30/2018 08:57:24</publishTime>
     </File>
+    <File Include="index.aspx">
+      <publishTime>10/26/2018 18:49:40</publishTime>
+    </File>
     <File Include="inicio.aspx">
-      <publishTime>10/03/2018 23:47:07</publishTime>
+      <publishTime>10/26/2018 18:51:21</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>09/30/2018 08:58:54</publishTime>
     </File>
     <File Include="Properties/PublishProfiles/ocm.pubxml.user">
-      <publishTime>10/04/2018 13:53:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/ai.0.22.9-build00167.js">
-      <publishTime>09/30/2018 08:58:54</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/ai.0.22.9-build00167.min.js">
-      <publishTime>09/30/2018 08:58:53</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
-      <publishTime>09/30/2018 08:57:44</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>09/30/2018 08:57:44</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
-      <publishTime>09/30/2018 08:57:39</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.js">
-      <publishTime>09/30/2018 08:57:39</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.map">
-      <publishTime>09/30/2018 08:57:39</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
-      <publishTime>09/30/2018 08:57:43</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/respond.js">
-      <publishTime>09/30/2018 08:57:41</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/respond.min.js">
-      <publishTime>09/30/2018 08:57:41</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/DetailsView.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/Focus.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/GridView.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/Menu.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MenuStandards.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
-      <publishTime>09/30/2018 08:57:49</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
-      <publishTime>09/30/2018 08:57:48</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/SmartNav.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/TreeView.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/WebForms.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/WebParts.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/WebForms/WebUIValidation.js">
-      <publishTime>09/30/2018 08:57:50</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>10/04/2018 13:56:08</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="video1.html">
       <publishTime>09/30/2018 13:17:42</publishTime>
     </File>
+    <File Include="Views/envia_proyecto/enviar_proyecto.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/memoria_historica/Boletines.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/memoria_historica/memoria.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/memoria_historica/Memoria_Historica.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
     <File Include="Views/pasion_amazonas/inicio_pasion_amazonas.aspx">
-      <publishTime>10/04/2018 13:20:43</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Views/pasion_amazonas/pasionamazonas.Master">
-      <publishTime>10/04/2018 13:43:59</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Views/pasion_caqueta/inicio_pasion_caqueta.aspx">
-      <publishTime>10/03/2018 23:51:18</publishTime>
+      <publishTime>10/07/2018 18:23:28</publishTime>
     </File>
     <File Include="Views/pasion_caqueta/pasioncaqueta.Master">
-      <publishTime>10/03/2018 23:59:44</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Views/pasion_putumayo/inicio_pasion_putumayo.aspx">
-      <publishTime>09/30/2018 09:03:23</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Views/pasion_putumayo/pasionputumayo.Master">
-      <publishTime>10/04/2018 13:46:20</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/que_es_fe_en_colombia/feencolombia.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/que_es_fe_en_colombia/lienaspoblacional.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/que_es_fe_en_colombia/lineaacercamiento.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/que_es_fe_en_colombia/lineatransversal.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/turismo/mapa.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/turismo/mapasitios.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/turismo/sitiosmunicipios.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/turismo/SitiosTuristicos.Master">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="Views/turismo/turisdefi.aspx">
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Views/web.config">
-      <publishTime>09/30/2018 08:58:03</publishTime>
+      <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="ViewSwitcher.ascx">
       <publishTime>09/30/2018 08:57:52</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>10/04/2018 13:52:45</publishTime>
+      <publishTime>10/18/2018 22:47:40</publishTime>
     </File>
   </ItemGroup>
 </Project>

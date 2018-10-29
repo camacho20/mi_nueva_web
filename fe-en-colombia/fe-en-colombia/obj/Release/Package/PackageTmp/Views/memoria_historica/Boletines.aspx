@@ -24,9 +24,9 @@
     </div>
     <div class="main main-raised">
         <div class="container">
-            <div class="section text-center">
+            <div class="section text-center"  >
 
-                <div id="gallery">
+                <div id="gallery" >
                     <div class="album" data-jgallery-album-title="Album 1">
                         <a href="../../Content/stylo_memoria/assets/img/boletin/Diapositiva1.JPG">
                             <img src="../../Content/stylo_memoria/assets/img/boletin/Diapositiva1.JPG" alt="Photo 1" /></a>

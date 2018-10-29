@@ -21,8 +21,8 @@
         <div class="container">
             <div class="section section-tabs">
                 <div class="card card-nav-tabs card-plain">
-                    <div class="row">
-                        <div class="col-md-3 col-md-offset-0">
+                 
+                        <div class="col-md-6 ">
 
                             <div class="card-header card-header-success">
                                 <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
@@ -46,7 +46,7 @@
                             </div>
                         </div>
 
-                        <div class="col-md-9">
+                     
 
                             <div class="card-body ">
                                 <div class="tab-content text-center">
@@ -57,11 +57,12 @@
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/campe.jpg" class="img-responsive" style="width: 600px; height: 300px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/campe.jpg" class="img-responsive"  style="width: 50%; height: 20%;" />
 
 
 
-                                        <h5 style="text-align: justify;">Es una actividad que se genera a partir de una necesidad básica dentro de una comunidad, su aplicabilidad se proyecta a la mejora de las condiciones de vida y generar un impacto positivo dentro de la dinámica social del territorio. Los proyectos productivos son importantes porque, son procesos que perduran en el tiempo, producen sostenibilidad y rentabilidad para el campesino y su familia, generan confianza en la comunidad, fortalecen la presencia e imagen institucional, mejoran las condiciones de vida de las comunidades, convierten a través de la gestión de necesidades, al funcionario público en un líder y gestor social, como objetivo general y principal está el de erradicar la pobreza extrema, brindando oportunidades a los campesinos y generando sensación de seguridad. </h5>
+                                        <h5 style="text-align: justify;">Es una actividad que se genera a partir de una necesidad básica dentro de una comunidad, su aplicabilidad se proyecta a la mejora de las condiciones de vida y generar un impacto positivo dentro de la dinámica social del territorio. Los proyectos productivos son importantes porque, son procesos que perduran en el tiempo, producen sostenibilidad y rentabilidad para el campesino y su familia, generan confianza en la comunidad, fortalecen la presencia e imagen institucional, mejoran las condiciones de vida de las comunidades, convierten a través de la gestión de necesidades, al funcionario público en un líder y gestor social, como objetivo general y principal está el de erradicar la pobreza extrema, brindando oportunidades a los campesinos y generando sensación de seguridad. 
+</h5>
                                         <h5 style="text-align: justify;">Esto se logra por medio de la gestión de proyectos articulados con diferentes cooperantes internacionales y ruedas de negocios, muestras empresariales y enlaces internacionales, donde se muestra el resultado de estos proyectos en la comunidad, y se brinda la oportunidad de mostrar dichos productos de manera comercial.
                                         </h5>
 
@@ -77,7 +78,7 @@
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/cons.jpg" class="img-responsive" style="width: 600px; height: 300px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/cons.jpg" class="img-responsive"  style="width: 50%; height: 20%;" />
 
 
 
@@ -93,11 +94,12 @@
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/medio.jpg" class="img-responsive" style="width: 600px; height: 300px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/medio.jpg" class="img-responsive" style="width: 50%; height: 20%;" />
 
 
 
-                                        <h5 style="text-align: justify;"></h5>
+                                        <h5 style="text-align: justify;">
+</h5>
                                         <h5 style="text-align: justify;">
                                         </h5>
                                         
@@ -109,8 +111,7 @@
                             </div>
                         </div>
 
-                    </div>
-                </div>
+          
 
                 <div>
                 </div>

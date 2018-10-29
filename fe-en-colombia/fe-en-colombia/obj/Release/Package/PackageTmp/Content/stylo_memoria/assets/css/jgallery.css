@@ -3,6 +3,11 @@
   transition: all 0.2s;
   cursor: pointer;
 }
+.gallery {
+    width: 900px;
+}
+
+
 .jgallery .jgallery-btn:hover {
   text-shadow: 0 0 .15em #fff;
 }

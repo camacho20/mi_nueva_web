@@ -21,7 +21,7 @@ var defaults = {
     disabledOnIE8AndOlder: true, // Boolean; If set as 'true', jGallery will be blocked for Internet Explorer 8 and older.; [ true, false ]
     draggableZoom: true, // Boolean; If set as 'true' you can drag active image.; [ true, false ]
     draggableZoomHideNavigationOnMobile: true, // Boolean; If set as 'true' navigation of draggable zoom will be hidden when width of window <= 'maxMobileWidth' parameter (default value - 767px); [ true, false ]
-    height: '600px', // String; Height of jGallery container(only for standard or slider mode).
+    height: '900px', // String; Height of jGallery container(only for standard or slider mode).
     hideThumbnailsOnInit: false, // Boolean; If set as 'true', thumbnails will be minimized by default, when jGallery will be started(only when 'thumbnails' parameter set as 'true').; [ true, false ]
     items: null, // Array | null; You can pass images as array (you don't have to create HTML elements).
     maxMobileWidth: 767, // Number; Maximum width(px) for jGallery shows a view for mobile device.

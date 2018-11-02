@@ -134,13 +134,13 @@
                                 </li>
 
                                 <li>
-                                    <a href="#">Burbuja Ambiental</a>
-
+                                    <a href="Views/burbuja_ambiental/revista.aspx">Burbuja Ambiental</a>
+                                    
                                 </li>
                                 <li>
-                                    <a href="Views/turismo/turisdefi.aspx">Turismo</a>
+                                    <a href="Views/turismo/mapasitios.aspx">Turismo</a>
                                 </li>
-
+                               
                                 <li>
                                     <a href="Views/envia_proyecto/enviar_proyecto.aspx">Envíanos Tu Proyecto </a>
                                 </li>

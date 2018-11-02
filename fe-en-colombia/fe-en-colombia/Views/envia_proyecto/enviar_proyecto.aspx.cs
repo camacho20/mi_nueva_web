@@ -81,7 +81,7 @@ namespace fe_en_colombia.Views.envia_proyecto
 
                 smtp.Port = 587;
                 smtp.Host = "smtp-mail.outlook.com";
-                smtp.EnableSsl = true;
+                smtp.EnableSsl = false;
 
                 //try
                 //{

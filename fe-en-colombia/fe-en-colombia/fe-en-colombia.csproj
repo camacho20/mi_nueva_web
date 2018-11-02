@@ -317,6 +317,7 @@
     <Content Include="Content\stylo_memoria\assets\css\font-awesome.min.css" />
     <Content Include="Content\stylo_memoria\assets\css\jgallery.css" />
     <Content Include="Content\stylo_memoria\assets\css\jgallery.min.css" />
+    <Content Include="Content\stylo_memoria\assets\css\jquery.paginate.css" />
     <Content Include="Content\stylo_memoria\assets\css\main.css" />
     <Content Include="Content\stylo_memoria\assets\css\material-kit.css" />
     <Content Include="Content\stylo_memoria\assets\css\material-kit.min.css" />
@@ -391,6 +392,14 @@
     <Content Include="Content\stylo_memoria\assets\img\estu.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\etnia.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\fami.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\img turismo\aracuara.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\img turismo\auka wasi.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\img turismo\encanto.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\img turismo\guacharos.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\img turismo\indi was.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\img turismo\parque.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\img turismo\picacho.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\img turismo\tarde.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\jue.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\lgt.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\lieapobla.jpg" />
@@ -408,6 +417,7 @@
     <Content Include="Content\stylo_memoria\assets\js\jgallery.js" />
     <Content Include="Content\stylo_memoria\assets\js\jgallery.min.js" />
     <Content Include="Content\stylo_memoria\assets\js\jquery-2.0.3.min.js" />
+    <Content Include="Content\stylo_memoria\assets\js\jquery.paginate.js" />
     <Content Include="Content\stylo_memoria\assets\js\material-kit.js" />
     <Content Include="Content\stylo_memoria\assets\js\material-kit.min.js" />
     <Content Include="Content\stylo_memoria\assets\js\plugins\bootstrap-datetimepicker.js" />
@@ -501,6 +511,7 @@
     <Content Include="Content\stylo_pasiones\css\main.css.map" />
     <Content Include="Content\stylo_memoria\assets\css\material-kit.css.map" />
     <Content Include="Content\stylo_memoria\assets\js\material-kit.js.map" />
+    <Content Include="Content\stylos_burbuja\Revista burbuja del medio ambiente.pdf" />
     <None Include="Properties\PublishProfiles\ocm.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="inicio.aspx" />
@@ -539,6 +550,7 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Views\burbuja_ambiental\revista.aspx" />
     <Content Include="Views\envia_proyecto\enviar_proyecto.aspx" />
     <Content Include="Views\memoria_historica\Boletines.aspx" />
     <Content Include="Views\memoria_historica\memoria.aspx" />
@@ -549,7 +561,6 @@
     <Content Include="Views\que_es_fe_en_colombia\lienaspoblacional.aspx" />
     <Content Include="Views\que_es_fe_en_colombia\lineaacercamiento.aspx" />
     <Content Include="Views\que_es_fe_en_colombia\lineatransversal.aspx" />
-    <Content Include="Views\turismo\mapa.aspx" />
     <Content Include="Views\turismo\mapasitios.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
@@ -562,6 +573,7 @@
     <Content Include="Views\memoria_historica\Memoria_Historica.Master" />
     <Content Include="Views\turismo\SitiosTuristicos.Master" />
     <Content Include="Views\que_es_fe_en_colombia\feencolombia.Master" />
+    <Content Include="Views\burbuja_ambiental\burbuja.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -594,6 +606,20 @@
     </Compile>
     <Compile Include="ViewSwitcher.ascx.designer.cs">
       <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\burbuja_ambiental\burbuja.Master.cs">
+      <DependentUpon>burbuja.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\burbuja_ambiental\burbuja.Master.designer.cs">
+      <DependentUpon>burbuja.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Views\burbuja_ambiental\revista.aspx.cs">
+      <DependentUpon>revista.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\burbuja_ambiental\revista.aspx.designer.cs">
+      <DependentUpon>revista.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\envia_proyecto\enviar_proyecto.aspx.cs">
       <DependentUpon>enviar_proyecto.aspx</DependentUpon>
@@ -693,13 +719,6 @@
     <Compile Include="Views\que_es_fe_en_colombia\lineatransversal.aspx.designer.cs">
       <DependentUpon>lineatransversal.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Views\turismo\mapa.aspx.cs">
-      <DependentUpon>mapa.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\turismo\mapa.aspx.designer.cs">
-      <DependentUpon>mapa.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Views\turismo\mapasitios.aspx.cs">
       <DependentUpon>mapasitios.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -717,7 +736,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Content\stylos_burbuja\" />
     <Folder Include="Content\stylo_incio\nuevo2\css\" />
     <Folder Include="Content\stylo_incio\nuevo2\fonts\" />
     <Folder Include="Content\stylo_incio\nuevo2\js\" />
@@ -726,7 +744,6 @@
     <Folder Include="Content\stylo_pasiones\img\presentation\" />
     <Folder Include="Content\stylo_pasiones\img\sections\" />
     <Folder Include="Controllers\" />
-    <Folder Include="Views\burbuja_ambiental\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

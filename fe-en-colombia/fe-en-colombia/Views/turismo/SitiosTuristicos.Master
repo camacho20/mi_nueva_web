@@ -40,17 +40,12 @@
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                  <a href="lienaspoblacional.aspx" class="nav-link">
+                  <a href="mapasitios.aspx" class="nav-link">
                     <i class="fas fa-tree"></i> Parques naturales
             </a>
               </li>
            
-              <li class="nav-item">
-                  <a href="lineaacercamiento.aspx" class="nav-link">
-                    <i class="fas fa-swimmer"></i> Hidrografia y Balnearios
-            </a>
-              </li>
-           
+              
 
           </ul>
           

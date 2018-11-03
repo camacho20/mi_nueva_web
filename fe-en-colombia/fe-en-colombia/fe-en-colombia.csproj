@@ -561,7 +561,14 @@
     <Content Include="Views\que_es_fe_en_colombia\lienaspoblacional.aspx" />
     <Content Include="Views\que_es_fe_en_colombia\lineaacercamiento.aspx" />
     <Content Include="Views\que_es_fe_en_colombia\lineatransversal.aspx" />
+    <Content Include="Views\turismo\cañonaracuara.aspx" />
     <Content Include="Views\turismo\mapasitios.aspx" />
+    <Content Include="Views\turismo\PNaukawasi.aspx" />
+    <Content Include="Views\turismo\PNchiribiquete.aspx" />
+    <Content Include="Views\turismo\PNguacharos.aspx" />
+    <Content Include="Views\turismo\PNindiwasi.aspx" />
+    <Content Include="Views\turismo\PNpicachos.aspx" />
+    <Content Include="Views\turismo\pretogliferoencanto.aspx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
     <Content Include="packages.config" />
@@ -719,12 +726,61 @@
     <Compile Include="Views\que_es_fe_en_colombia\lineatransversal.aspx.designer.cs">
       <DependentUpon>lineatransversal.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Views\turismo\cañonaracuara.aspx.cs">
+      <DependentUpon>cañonaracuara.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\cañonaracuara.aspx.designer.cs">
+      <DependentUpon>cañonaracuara.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Views\turismo\mapasitios.aspx.cs">
       <DependentUpon>mapasitios.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Views\turismo\mapasitios.aspx.designer.cs">
       <DependentUpon>mapasitios.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\PNaukawasi.aspx.cs">
+      <DependentUpon>PNaukawasi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\PNaukawasi.aspx.designer.cs">
+      <DependentUpon>PNaukawasi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\PNchiribiquete.aspx.cs">
+      <DependentUpon>PNchiribiquete.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\PNchiribiquete.aspx.designer.cs">
+      <DependentUpon>PNchiribiquete.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\PNguacharos.aspx.cs">
+      <DependentUpon>PNguacharos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\PNguacharos.aspx.designer.cs">
+      <DependentUpon>PNguacharos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\PNindiwasi.aspx.cs">
+      <DependentUpon>PNindiwasi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\PNindiwasi.aspx.designer.cs">
+      <DependentUpon>PNindiwasi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\PNpicachos.aspx.cs">
+      <DependentUpon>PNpicachos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\PNpicachos.aspx.designer.cs">
+      <DependentUpon>PNpicachos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\turismo\pretogliferoencanto.aspx.cs">
+      <DependentUpon>pretogliferoencanto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\turismo\pretogliferoencanto.aspx.designer.cs">
+      <DependentUpon>pretogliferoencanto.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\turismo\SitiosTuristicos.Master.cs">
       <DependentUpon>SitiosTuristicos.Master</DependentUpon>

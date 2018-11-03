@@ -83,9 +83,9 @@
 
                                              </div>
                                              <div class=" card-footer">
-                                                 <button class="btn btn-success">
+                                                 <a  href="PNguacharos.aspx"     class="btn btn-success">
                                                      <i class="fas fa-plus-circle"></i>Más información 
-                                                 </button>
+                                                 </a>
                                              </div>
                                          </div>
                                      </div>
@@ -108,11 +108,12 @@
                                                  <h3 class="name">Parque Nacional Natural Serranía de Chiribiquete</h3>
 
                                              </div>
-                                             <div class=" card-footer">
-                                                 <button class="btn btn-success">
+                                              <div class=" card-footer">
+                                                 <a  href="PNchiribiquete.aspx"     class="btn btn-success">
                                                      <i class="fas fa-plus-circle"></i>Más información 
-                                                 </button>
+                                                 </a>
                                              </div>
+                                             
                                          </div>
                                      </div>
                                      <!-- end front panel -->
@@ -135,10 +136,10 @@
                                                  <h3 class="name">Parque Nacional Natural Cordillera de los Picachos</h3>
 
                                              </div>
-                                             <div class=" card-footer">
-                                                 <button class="btn btn-success">
+                                              <div class=" card-footer">
+                                                 <a  href="PNpicachos.aspx"     class="btn btn-success">
                                                      <i class="fas fa-plus-circle"></i>Más información 
-                                                 </button>
+                                                 </a>
                                              </div>
                                          </div>
                                      </div>
@@ -166,11 +167,13 @@
                                                  <h3 class="name">Parque Nacional Natural Alto Fragua Indi Wasi</h3>
                                                 
                                              </div>
-                                             <div class=" card-footer">
-                                                 <button class="btn btn-success">
+                                              <div class=" card-footer">
+                                                 <a  href="PNindiwasi.aspx"     class="btn btn-success">
                                                      <i class="fas fa-plus-circle"></i>Más información 
-                                                 </button>
+                                                 </a>
                                              </div>
+                                            
+                                            
                                          </div>
                                      </div>
                                      <!-- end front panel -->
@@ -192,10 +195,10 @@
                                                  <h3 class="name">Parque Nacional Natural Serranía de los Churumbelos Auka-Wasi</h3>
 
                                              </div>
-                                             <div class=" card-footer">
-                                                 <button class="btn btn-success">
+                                              <div class=" card-footer">
+                                                 <a  href="PNaukawasi.aspx"     class="btn btn-success">
                                                      <i class="fas fa-plus-circle"></i>Más información 
-                                                 </button>
+                                                 </a>
                                              </div>
                                          </div>
                                      </div>
@@ -219,11 +222,12 @@
                                                  <h3 class="name">Cañón de Araracuara</h3>
 
                                              </div>
-                                             <div class=" card-footer">
-                                                 <button class="btn btn-success">
+                                              <div class=" card-footer">
+                                                 <a  href="cañonaracuara.aspx"     class="btn btn-success">
                                                      <i class="fas fa-plus-circle"></i>Más información 
-                                                 </button>
+                                                 </a>
                                              </div>
+                                            
                                          </div>
                                      </div>
                                      <!-- end front panel -->
@@ -249,14 +253,15 @@
                                                  <h3 class="name">Petroglifos de El Encanto</h3>
                                                  
                                              </div>
-                                             <div class=" card-footer">
-                                                 <button class="btn btn-success">
+                                              <div class=" card-footer">
+                                                 <a  href="pretogliferoencanto.aspx"     class="btn btn-success">
                                                      <i class="fas fa-plus-circle"></i>Más información 
-                                                 </button>
+                                                 </a>
                                              </div>
                                          </div>
                                      </div>
                                      <!-- end front panel -->
+                          
                                      <!-- end back panel -->
                             
                              </div>

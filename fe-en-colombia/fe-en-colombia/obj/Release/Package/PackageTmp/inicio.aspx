@@ -134,18 +134,17 @@
                                 </li>
 
                                 <li>
-                                    <a href="#">Burbuja Ambiental</a>
-
+                                    <a href="Views/burbuja_ambiental/revista.aspx">Burbuja Ambiental</a>
+                                    
                                 </li>
                                 <li>
-                                    <a href="Views/turismo/turisdefi.aspx">Turismo</a>
+                                    <a href="Views/turismo/mapasitios.aspx">Turismo</a>
                                 </li>
-
+                               
                                 <li>
-                                    <a href="#">Envíanos Tu Proyecto </a>
+                                    <a href="Views/envia_proyecto/enviar_proyecto.aspx">Envíanos Tu Proyecto </a>
                                 </li>
-
-                                
+                               
                             </ul>
                         </div>
                        
@@ -220,7 +219,7 @@
                             </button>
                         </div>
                         <div class="modal-body">
-                            <iframe width="509" height="309" src="https://www.youtube.com/embed/8EipJyByoq0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                            <iframe width="100%" height="309" src="https://www.youtube.com/embed/8EipJyByoq0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
                         </div>
 
                     </div>
@@ -546,9 +545,17 @@
                 </div>
 
             </div>
-
+             <hr class="divider">
+            <div class="aliados">
+                <h2 style="text-align:center;">Contador de visistas : </h2>
+            <div id="sfcmz5z988qaj65zzrellexjhjfycqax6ze"></div>
+<script type="text/javascript" src="https://counter5.wheredoyoucomefrom.ovh/private/counter.js?c=mz5z988qaj65zzrellexjhjfycqax6ze&down=async" async></script>
+<noscript><a href="https://www.contadorvisitasgratis.com" title="contadores de visitas"><img src="https://counter5.wheredoyoucomefrom.ovh/private/contadorvisitasgratis.php?c=mz5z988qaj65zzrellexjhjfycqax6ze" border="0" title="contadores de visitas" alt="contadores de visitas"></a></noscript>
+<br />
         </div>
-
+            <br />
+            
+</div>
 
     </form>
 
@@ -562,7 +569,7 @@
                 &copy;
             <script>document.write(new Date().getFullYear())</script>
                 , Creado por:
-                <p class="m-0">autor</p>
+                <p class="m-0">Pasión Caquetá</p>
             </div>
         </div>
     </div>

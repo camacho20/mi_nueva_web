@@ -109,7 +109,7 @@
 
         <div class="copyright pull-right">
             &copy;
-            <script>document.write(new Date().getFullYear())</script>, Creado por: <p class="m-0"> Autor</p>
+            <script>document.write(new Date().getFullYear())</script>, Creado por: <p class="m-0"> Pasión Caquetá</p>
         </div>
         </div>
     </footer>

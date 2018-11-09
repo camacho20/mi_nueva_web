@@ -104,7 +104,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>01/28/2015 04:04:36</publishTime>
     </File>
     <File Include="bin/fe-en-colombia.dll">
-      <publishTime>10/27/2018 07:05:11</publishTime>
+      <publishTime>11/09/2018 09:44:48</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>12/07/2015 19:04:38</publishTime>
@@ -265,6 +265,9 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     <File Include="Content/main.css">
       <publishTime>10/03/2018 23:17:47</publishTime>
     </File>
+    <File Include="Content/stylos_burbuja/Revista burbuja del medio ambiente.pdf">
+      <publishTime>10/30/2018 09:24:46</publishTime>
+    </File>
     <File Include="Content/stylo_incio/css/bootstrap.css">
       <publishTime>09/30/2018 10:29:56</publishTime>
     </File>
@@ -296,13 +299,13 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 09:01:57</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/full.css">
-      <publishTime>07/10/2018 15:14:04</publishTime>
+      <publishTime>10/07/2018 15:14:04</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/lightbox.min.css">
       <publishTime>09/30/2018 13:20:10</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/owl.carousel.css">
-      <publishTime>07/10/2018 15:29:08</publishTime>
+      <publishTime>10/07/2018 15:29:08</publishTime>
     </File>
     <File Include="Content/stylo_incio/css/owl.theme.default.min.css">
       <publishTime>09/30/2018 09:01:57</publishTime>
@@ -377,13 +380,13 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 09:01:59</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/LOGO VERTICAL AMAZONAS.jpg">
-      <publishTime>07/10/2018 16:52:13</publishTime>
+      <publishTime>10/07/2018 16:52:13</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/LOGO VERTICAL CAQUETA.jpg">
-      <publishTime>07/10/2018 16:02:34</publishTime>
+      <publishTime>10/07/2018 16:02:34</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/LOGO VERTICAL PUTUMAYO - copia.jpg">
-      <publishTime>07/10/2018 16:53:23</publishTime>
+      <publishTime>10/07/2018 16:53:23</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/logo-autoridades-militares-y-civiles/logo1.jpg">
       <publishTime>09/30/2018 20:03:23</publishTime>
@@ -479,7 +482,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 17:51:38</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/logo-publico-privado/logo19.jpg">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 17:56:00</publishTime>
     </File>
     <File Include="Content/stylo_incio/img/logo-publico-privado/logo2.jpg">
       <publishTime>09/30/2018 09:01:59</publishTime>
@@ -581,16 +584,16 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 14:36:36</publishTime>
     </File>
     <File Include="Content/stylo_incio/js/jquery.mousewheel.min.js">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_incio/js/main.js">
       <publishTime>10/26/2018 18:08:13</publishTime>
     </File>
     <File Include="Content/stylo_incio/js/modernizr.custom.86080.js">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_incio/js/owl.carousel.js">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/css/estilos.css">
       <publishTime>10/22/2018 08:43:08</publishTime>
@@ -604,11 +607,14 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     <File Include="Content/stylo_memoria/assets/css/jgallery.min.css">
       <publishTime>10/18/2018 20:13:19</publishTime>
     </File>
+    <File Include="Content/stylo_memoria/assets/css/jquery.paginate.css">
+      <publishTime>11/02/2018 11:28:02</publishTime>
+    </File>
     <File Include="Content/stylo_memoria/assets/css/main.css">
       <publishTime>10/24/2018 18:07:27</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/css/material-kit.css">
-      <publishTime>10/23/2018 10:40:52</publishTime>
+      <publishTime>11/08/2018 09:45:09</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/css/material-kit.css.map">
       <publishTime>10/18/2018 19:51:20</publishTime>
@@ -739,59 +745,65 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva43.JPG">
       <publishTime>09/14/2018 15:57:58</publishTime>
     </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva44.JPG">
+      <publishTime>09/14/2018 15:58:00</publishTime>
+    </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva45.JPG">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/14/2018 15:58:00</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva46.JPG">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/14/2018 15:58:02</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva47.JPG">
       <publishTime>09/14/2018 15:58:02</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva48.JPG">
-      <publishTime>09/14/2018 15:58:02</publishTime>
+      <publishTime>09/14/2018 15:58:04</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva49.JPG">
+      <publishTime>09/14/2018 15:58:04</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva5.JPG">
       <publishTime>09/14/2018 15:57:26</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva50.JPG">
-      <publishTime>09/14/2018 15:58:04</publishTime>
+      <publishTime>09/14/2018 15:58:06</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva51.JPG">
-      <publishTime>09/14/2018 15:58:04</publishTime>
+      <publishTime>09/14/2018 15:58:06</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva52.JPG">
-      <publishTime>09/14/2018 15:58:06</publishTime>
+      <publishTime>09/14/2018 15:58:08</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva53.JPG">
-      <publishTime>09/14/2018 15:58:06</publishTime>
+      <publishTime>09/14/2018 15:58:08</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva54.JPG">
-      <publishTime>09/14/2018 15:58:08</publishTime>
+      <publishTime>09/14/2018 15:58:10</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva55.JPG">
-      <publishTime>09/14/2018 15:58:08</publishTime>
+      <publishTime>09/14/2018 15:58:10</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva56.JPG">
-      <publishTime>09/14/2018 15:58:10</publishTime>
+      <publishTime>09/14/2018 15:58:12</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva57.JPG">
-      <publishTime>09/14/2018 15:58:10</publishTime>
+      <publishTime>09/14/2018 15:58:12</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva58.JPG">
       <publishTime>09/14/2018 15:58:12</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva59.JPG">
-      <publishTime>09/14/2018 15:58:12</publishTime>
+      <publishTime>09/14/2018 15:58:14</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva6.JPG">
       <publishTime>09/14/2018 15:57:28</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva60.JPG">
-      <publishTime>09/14/2018 15:58:12</publishTime>
+      <publishTime>09/14/2018 15:58:14</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva61.JPG">
-      <publishTime>09/14/2018 15:58:14</publishTime>
+      <publishTime>09/14/2018 15:58:16</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva62.JPG">
       <publishTime>09/14/2018 15:58:14</publishTime>
@@ -832,11 +844,35 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     <File Include="Content/stylo_memoria/assets/img/fami.jpg">
       <publishTime>10/23/2018 18:59:23</publishTime>
     </File>
+    <File Include="Content/stylo_memoria/assets/img/img turismo/aracuara.jpg">
+      <publishTime>11/02/2018 15:28:14</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/img turismo/auka wasi.jpg">
+      <publishTime>11/02/2018 15:16:02</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/img turismo/encanto.jpg">
+      <publishTime>11/02/2018 15:34:02</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/img turismo/guacharos.jpg">
+      <publishTime>11/01/2018 17:02:15</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/img turismo/indi was.jpg">
+      <publishTime>11/02/2018 15:09:59</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/img turismo/parque.jpg">
+      <publishTime>11/01/2018 15:44:49</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/img turismo/picacho.jpg">
+      <publishTime>11/02/2018 15:07:14</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/img turismo/tarde.jpg">
+      <publishTime>11/01/2018 15:21:43</publishTime>
+    </File>
     <File Include="Content/stylo_memoria/assets/img/jue.jpg">
       <publishTime>10/23/2018 19:02:43</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/lgt.jpg">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>10/23/2018 11:44:00</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/lieapobla.jpg">
       <publishTime>10/20/2018 15:59:32</publishTime>
@@ -882,6 +918,9 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     </File>
     <File Include="Content/stylo_memoria/assets/js/jquery-2.0.3.min.js">
       <publishTime>10/18/2018 20:08:10</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/js/jquery.paginate.js">
+      <publishTime>11/02/2018 11:35:37</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/js/material-kit.js">
       <publishTime>10/18/2018 20:18:10</publishTime>
@@ -1460,40 +1499,40 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>10/18/2018 21:08:16</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/arrow-left.cur">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/arrow-left.png">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/arrow-right.cur">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/arrow-right.png">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/caqueta.JPG">
-      <publishTime>08/23/2018 11:25:14</publishTime>
+      <publishTime>10/27/2018 14:55:49</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/cd-arrow-bottom.svg">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/fondo.jpg">
       <publishTime>10/17/2017 18:28:24</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/IMG_2694.JPG">
-      <publishTime>08/27/2018 15:52:38</publishTime>
+      <publishTime>10/27/2018 14:56:24</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/IMG_9564.JPG">
-      <publishTime>03/24/2018 06:55:32</publishTime>
+      <publishTime>10/27/2018 14:56:55</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/LOGO HORIZONTAL AMAZONAS - fondo negro.jpg">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/LOGO HORIZONTAL CAQUETA.jpg">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/LOGO HORIZONTAL PUTUMAYO - fondo negro.jpg">
-      <publishTime>01/01/0001 00:00:00</publishTime>
+      <publishTime>09/30/2018 09:02:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/LOGO VERTICAL AMAZONAS.jpg">
       <publishTime>09/13/2018 23:36:12</publishTime>
@@ -1508,52 +1547,52 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/13/2018 23:36:12</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/criptograma.jpg">
-      <publishTime>07/10/2018 17:30:19</publishTime>
+      <publishTime>10/07/2018 17:30:19</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/delfin.jpg">
-      <publishTime>07/10/2018 17:24:57</publishTime>
+      <publishTime>10/07/2018 17:24:57</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/indioamazonico.jpg">
-      <publishTime>07/10/2018 17:27:43</publishTime>
+      <publishTime>10/07/2018 17:27:43</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/multi.jpg">
-      <publishTime>07/10/2018 17:29:05</publishTime>
+      <publishTime>10/07/2018 17:29:05</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-amazonas/victoria.jpg">
-      <publishTime>07/10/2018 17:25:52</publishTime>
+      <publishTime>10/07/2018 17:25:52</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/manual pasion caqueta-3.jpg">
-      <publishTime>10/25/2017 15:24:28</publishTime>
+      <publishTime>10/27/2018 14:58:34</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/manual pasion caqueta-diosa.jpg">
-      <publishTime>10/25/2017 15:24:28</publishTime>
+      <publishTime>10/27/2018 14:58:38</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/manual pasion caqueta-heroe.jpg">
-      <publishTime>10/25/2017 15:24:30</publishTime>
+      <publishTime>10/27/2018 14:58:41</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/manual pasion caqueta-rio.jpg">
-      <publishTime>10/25/2017 15:24:30</publishTime>
+      <publishTime>10/27/2018 14:58:44</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-caqueta/partes del logo Copy.lnk">
       <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/bandera.jpg">
-      <publishTime>07/10/2018 17:19:59</publishTime>
+      <publishTime>10/07/2018 17:19:59</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/cascada.jpg">
-      <publishTime>07/10/2018 17:12:58</publishTime>
+      <publishTime>10/07/2018 17:12:58</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/colibri.jpg">
-      <publishTime>07/10/2018 17:12:04</publishTime>
+      <publishTime>10/07/2018 17:12:04</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/fe_causa.jpg">
-      <publishTime>07/10/2018 17:22:01</publishTime>
+      <publishTime>10/07/2018 17:22:01</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/inga.jpg">
-      <publishTime>07/10/2018 17:16:55</publishTime>
+      <publishTime>10/07/2018 17:16:55</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/img/partes del logo-putumayo/macara.jpg">
-      <publishTime>07/10/2018 17:15:06</publishTime>
+      <publishTime>10/07/2018 17:15:06</publishTime>
     </File>
     <File Include="Content/stylo_pasiones/js/atv-img-animation.js">
       <publishTime>10/17/2017 18:28:24</publishTime>
@@ -1631,13 +1670,13 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>10/26/2018 18:49:40</publishTime>
     </File>
     <File Include="inicio.aspx">
-      <publishTime>10/26/2018 18:51:21</publishTime>
+      <publishTime>11/06/2018 16:00:36</publishTime>
     </File>
     <File Include="packages.config">
       <publishTime>09/30/2018 08:58:54</publishTime>
     </File>
     <File Include="Properties/PublishProfiles/ocm.pubxml.user">
-      <publishTime>10/26/2018 20:53:22</publishTime>
+      <publishTime>11/07/2018 11:10:08</publishTime>
     </File>
     <File Include="Scripts/ai.0.22.9-build00167.js">
       <publishTime>09/30/2018 08:58:54</publishTime>
@@ -1733,64 +1772,91 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 08:57:50</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>10/26/2018 18:09:10</publishTime>
+      <publishTime>11/02/2018 10:23:15</publishTime>
     </File>
     <File Include="video1.html">
       <publishTime>09/30/2018 13:17:42</publishTime>
     </File>
+    <File Include="Views/burbuja_ambiental/burbuja.Master">
+      <publishTime>11/06/2018 16:03:46</publishTime>
+    </File>
+    <File Include="Views/burbuja_ambiental/revista.aspx">
+      <publishTime>11/08/2018 09:51:12</publishTime>
+    </File>
     <File Include="Views/envia_proyecto/enviar_proyecto.aspx">
-      <publishTime>10/26/2018 18:52:56</publishTime>
+      <publishTime>11/06/2018 16:03:24</publishTime>
     </File>
     <File Include="Views/memoria_historica/Boletines.aspx">
-      <publishTime>10/20/2018 15:42:19</publishTime>
+      <publishTime>11/09/2018 09:42:17</publishTime>
     </File>
     <File Include="Views/memoria_historica/memoria.aspx">
       <publishTime>10/20/2018 15:36:27</publishTime>
     </File>
     <File Include="Views/memoria_historica/Memoria_Historica.Master">
-      <publishTime>10/26/2018 18:52:42</publishTime>
+      <publishTime>11/09/2018 09:09:30</publishTime>
     </File>
     <File Include="Views/pasion_amazonas/inicio_pasion_amazonas.aspx">
       <publishTime>10/15/2018 17:27:35</publishTime>
     </File>
     <File Include="Views/pasion_amazonas/pasionamazonas.Master">
-      <publishTime>10/26/2018 18:52:32</publishTime>
+      <publishTime>11/06/2018 16:02:46</publishTime>
     </File>
     <File Include="Views/pasion_caqueta/inicio_pasion_caqueta.aspx">
-      <publishTime>07/10/2018 18:23:28</publishTime>
+      <publishTime>10/07/2018 18:23:28</publishTime>
     </File>
     <File Include="Views/pasion_caqueta/pasioncaqueta.Master">
-      <publishTime>10/26/2018 18:52:18</publishTime>
+      <publishTime>11/06/2018 16:02:30</publishTime>
     </File>
     <File Include="Views/pasion_putumayo/inicio_pasion_putumayo.aspx">
       <publishTime>10/15/2018 17:24:47</publishTime>
     </File>
     <File Include="Views/pasion_putumayo/pasionputumayo.Master">
-      <publishTime>10/26/2018 18:52:05</publishTime>
+      <publishTime>11/06/2018 16:02:13</publishTime>
     </File>
     <File Include="Views/que_es_fe_en_colombia/feencolombia.Master">
-      <publishTime>10/26/2018 18:51:51</publishTime>
+      <publishTime>11/06/2018 16:01:19</publishTime>
     </File>
     <File Include="Views/que_es_fe_en_colombia/lienaspoblacional.aspx">
-      <publishTime>10/23/2018 18:12:26</publishTime>
+      <publishTime>11/06/2018 15:36:42</publishTime>
     </File>
     <File Include="Views/que_es_fe_en_colombia/lineaacercamiento.aspx">
-      <publishTime>10/23/2018 18:19:24</publishTime>
+      <publishTime>11/06/2018 15:35:25</publishTime>
     </File>
     <File Include="Views/que_es_fe_en_colombia/lineatransversal.aspx">
-      <publishTime>10/23/2018 19:06:23</publishTime>
+      <publishTime>11/06/2018 15:38:44</publishTime>
+    </File>
+    <File Include="Views/turismo/cañonaracuara.aspx">
+      <publishTime>11/07/2018 10:37:12</publishTime>
     </File>
     <File Include="Views/turismo/mapa.aspx">
       <publishTime>10/24/2018 09:53:51</publishTime>
     </File>
     <File Include="Views/turismo/mapasitios.aspx">
-      <publishTime>10/24/2018 11:55:01</publishTime>
+      <publishTime>11/03/2018 11:36:31</publishTime>
+    </File>
+    <File Include="Views/turismo/PNaukawasi.aspx">
+      <publishTime>11/07/2018 10:39:47</publishTime>
+    </File>
+    <File Include="Views/turismo/PNchiribiquete.aspx">
+      <publishTime>11/03/2018 10:47:41</publishTime>
+    </File>
+    <File Include="Views/turismo/PNguacharos.aspx">
+      <publishTime>11/03/2018 10:11:42</publishTime>
+    </File>
+    <File Include="Views/turismo/PNindiwasi.aspx">
+      <publishTime>11/06/2018 06:48:39</publishTime>
+    </File>
+    <File Include="Views/turismo/PNpicachos.aspx">
+      <publishTime>11/03/2018 11:04:38</publishTime>
+    </File>
+    <File Include="Views/turismo/pretogliferoencanto.aspx">
+      <publishTime>11/07/2018 10:34:51</publishTime>
     </File>
     <File Include="Views/turismo/sitiosmunicipios.aspx">
       <publishTime>01/01/0001 00:00:00</publishTime>
     </File>
     <File Include="Views/turismo/SitiosTuristicos.Master">
-      <publishTime>10/24/2018 11:03:57</publishTime>
+      <publishTime>11/06/2018 16:01:44</publishTime>
     </File>
     <File Include="Views/turismo/turisdefi.aspx">
       <publishTime>01/01/0001 00:00:00</publishTime>

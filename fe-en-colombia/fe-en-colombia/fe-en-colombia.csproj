@@ -362,10 +362,12 @@
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva41.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva42.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva43.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva44.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva45.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva46.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva47.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva48.JPG" />
+    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva49.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva5.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva50.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva51.JPG" />
@@ -380,8 +382,6 @@
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva6.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva60.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva61.JPG" />
-    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva62.JPG" />
-    <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva63.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva7.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva8.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva9.JPG" />

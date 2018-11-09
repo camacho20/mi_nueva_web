@@ -545,9 +545,17 @@
                 </div>
 
             </div>
-
+             <hr class="divider">
+            <div class="aliados">
+                <h2 style="text-align:center;">Contador de visistas : </h2>
+            <div id="sfcmz5z988qaj65zzrellexjhjfycqax6ze"></div>
+<script type="text/javascript" src="https://counter5.wheredoyoucomefrom.ovh/private/counter.js?c=mz5z988qaj65zzrellexjhjfycqax6ze&down=async" async></script>
+<noscript><a href="https://www.contadorvisitasgratis.com" title="contadores de visitas"><img src="https://counter5.wheredoyoucomefrom.ovh/private/contadorvisitasgratis.php?c=mz5z988qaj65zzrellexjhjfycqax6ze" border="0" title="contadores de visitas" alt="contadores de visitas"></a></noscript>
+<br />
         </div>
-
+            <br />
+            
+</div>
 
     </form>
 
@@ -561,7 +569,7 @@
                 &copy;
             <script>document.write(new Date().getFullYear())</script>
                 , Creado por:
-                <p class="m-0">autor</p>
+                <p class="m-0">Pasión Caquetá</p>
             </div>
         </div>
     </div>

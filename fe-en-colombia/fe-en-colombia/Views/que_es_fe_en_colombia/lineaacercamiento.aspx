@@ -52,7 +52,7 @@
                                 <div class="tab-content text-center">
                                     <div class="tab-pane active" id="produ">
 
-                                        <h2 class="title" style="text-align: center;">Productivos</h2>
+                                        <h2 class="title" style="text-align: center;">PRODUCTIVOS</h2>
 
 
 
@@ -73,7 +73,7 @@
 
 
                                     <div class="tab-pane" id="infra">
-                                        <h2 class="title" style="text-align: center;">Infraestructura</h2>
+                                        <h2 class="title" style="text-align: center;">INFRAESTRUCTURA</h2>
 
 
 
@@ -89,7 +89,7 @@
 
                                     </div>
                                     <div class="tab-pane" id="medio">
-                                        <h2 class="title" style="text-align: center;">Medio ambiente</h2>
+                                        <h2 class="title" style="text-align: center;">MEDIO AMBIENTE</h2>
 
 
 

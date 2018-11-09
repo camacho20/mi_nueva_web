@@ -24,8 +24,8 @@
             <div class="section section-tabs">
 
                 <div class="card card-nav-tabs card-plain">
-                    <div class="row">
-                        <div class="col-md-3 col-md-offset-0">
+                 
+                        <div class="col-md-12">
 
                             <div class="card-header card-header-success">
                                 <!-- colors: "header-primary", "header-info", "header-success", "header-warning", "header-danger" -->
@@ -52,18 +52,17 @@
                             </div>
                         </div>
 
-                        <div class="col-md-9">
 
                             <div class="card-body ">
                                 <div class="tab-content text-center">
                                     <div class="tab-pane active" id="comu">
 
-                                        <h2 class="title" style="text-align: center;">Comunicación estratégica</h2>
+                                        <h2 class="title" style="text-align: center;">COMUNICACIÓN ESTRATÉGICA</h2>
 
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/aser.jpg" class="img-responsive" style="width: 600px; height: 310px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/aser.jpg" class="img-responsive"  style="width: 50%; height: 20%;" />
 
 
 
@@ -78,12 +77,12 @@
 
 
                                     <div class="tab-pane" id="forta">
-                                        <h2 class="title" style="text-align: center;">Fortalecimiento Interno </h2>
+                                        <h2 class="title" style="text-align: center;">FORTALECIMIENTO INTERNO </h2>
 
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/fami.jpg" class="img-responsive" style="width: 600px; height: 330px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/fami.jpg" class="img-responsive"  style="width: 50%; height: 20%;" />
 
 
 
@@ -94,12 +93,12 @@
 
                                     </div>
                                     <div class="tab-pane" id="aseso">
-                                        <h2 class="title" style="text-align: center;">Asesoría Jurídica</h2>
+                                        <h2 class="title" style="text-align: center;">ASESORÍA JURÍDICA</h2>
 
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/jue.jpg" class="img-responsive" style="width: 600px; height: 330px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/jue.jpg" class="img-responsive"  style="width: 50%; height: 20%;" />
 
 
 
@@ -111,12 +110,12 @@
                                     </div>
 
                                     <div class="tab-pane" id="aca">
-                                        <h2 class="title" style="text-align: center;">Asesoría Académica</h2>
+                                        <h2 class="title" style="text-align: center;">ASESORÍA ACADÉMICA</h2>
 
 
 
 
-                                        <img src="../../Content/stylo_memoria/assets/img/estu.jpg" class="img-responsive" style="width: 600px; height: 300px;" />
+                                        <img src="../../Content/stylo_memoria/assets/img/estu.jpg" class="img-responsive" style="width: 50%; height: 20%;" />
 
 
 
@@ -144,8 +143,7 @@
                             </div>
                         </div>
 
-                    </div>
-                </div>
+                  
 
 
 

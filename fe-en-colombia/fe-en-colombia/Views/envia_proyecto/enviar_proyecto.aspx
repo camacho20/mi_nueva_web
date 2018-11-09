@@ -171,7 +171,7 @@
         <script>
             document.write(new Date().getFullYear())
         </script>
-                    Autor
+                   Pasión Caquetá
                 </div>
             </div>
         </footer>

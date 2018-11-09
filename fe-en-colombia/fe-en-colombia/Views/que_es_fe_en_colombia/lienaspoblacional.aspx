@@ -12,7 +12,7 @@
             <div class="row">
                 <div class="col-md-8 ml-auto mr-auto">
                     <div class="brand text-center">
-                        <h1>Líneas Poblacional</h1>
+                        <h1>Línea Poblacional</h1>
 
                     </div>
                 </div>
@@ -59,7 +59,7 @@
                             <div class="tab-content text-center">
                                 <div class="tab-pane active" id="campe">
 
-                                    <h2 class="title" style="text-align: center;">Campesinos</h2>
+                                    <h2 class="title" style="text-align: center;">CAMPESINOS</h2>
 
 
 
@@ -79,7 +79,7 @@
 
 
                                 <div class="tab-pane" id="etnia">
-                                    <h2 class="title" style="text-align: center;">Etnias (Afros)</h2>
+                                    <h2 class="title" style="text-align: center;">ETNIAS (AFROS)</h2>
 
 
 
@@ -95,7 +95,7 @@
 
                                 </div>
                                 <div class="tab-pane" id="lgt">
-                                    <h2 class="title" style="text-align: center;">Lgtbi</h2>
+                                    <h2 class="title" style="text-align: center;">LGTBI</h2>
 
 
 
@@ -118,7 +118,7 @@
                                 </div>
 
                                 <div class="tab-pane" id="victi">
-                                    <h2 class="title" style="text-align: center;">Víctimas</h2>
+                                    <h2 class="title" style="text-align: center;">VÍCTIMAS</h2>
 
 
 
@@ -161,7 +161,7 @@ https://www.icbf.gov.co/
 
                                 </div>
                                 <div class="tab-pane" id="mujer">
-                                    <h2 class="title" style="text-align: center;">Mujer</h2>
+                                    <h2 class="title" style="text-align: center;">MUJER</h2>
 
 
 

@@ -235,6 +235,6 @@ C:\Users\tgttt\Documents\GitHub\ocmdan\fe-en-colombia\fe-en-colombia\bin\es\Micr
 C:\Users\tgttt\Documents\GitHub\ocmdan\fe-en-colombia\fe-en-colombia\bin\es\Microsoft.Owin.Security.Google.resources.dll
 C:\Users\tgttt\Documents\GitHub\ocmdan\fe-en-colombia\fe-en-colombia\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
 C:\Users\tgttt\Documents\GitHub\ocmdan\fe-en-colombia\fe-en-colombia\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\tgttt\Documents\GitHub\ocmdan\fe-en-colombia\fe-en-colombia\obj\Debug\fe-en-colombia.csprojResolveAssemblyReference.cache
 C:\Users\tgttt\Documents\GitHub\ocmdan\fe-en-colombia\fe-en-colombia\obj\Debug\fe-en-colombia.dll
 C:\Users\tgttt\Documents\GitHub\ocmdan\fe-en-colombia\fe-en-colombia\obj\Debug\fe-en-colombia.pdb
-C:\Users\tgttt\Documents\GitHub\ocmdan\fe-en-colombia\fe-en-colombia\obj\Debug\fe-en-colombia.csprojResolveAssemblyReference.cache

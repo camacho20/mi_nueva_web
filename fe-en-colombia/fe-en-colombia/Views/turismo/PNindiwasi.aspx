@@ -34,17 +34,13 @@
 
                     <div class="col-md-6">
 
-                        <h5 class="tittle" style="text-align: justify;">El parque nacional natural Cordillera de Los Picachos se encuentra ubicado en la Cordillera Oriental, Región Andina de Colombia. Forma parte de los departamentos colombianos de Caquetá y Meta dentro de las jurisdicciones de los municipios de San Vicente del Caguán, Guacamayas y La Uribe.
+                        <h5 class="tittle" style="text-align: justify;">El Parque Nacional Natural Alto Fragua Indi Wasi, se encuentra en un (75%) en el municipio de San José del Fragua y un (25%), Belén de los Andaquíes, cuenta con un gradiente altitudinal entre los 900 y 2895 m.s.n.m. Su temperatura promedio es de 19.9 °C, precipitación promedio de 3.212 mm/año) presenta una humedad relativa del 85-90%. El clima es templado muy húmedo a frio muy húmedo. Tiene una extensión 76270 has. Se caracteriza por ser una zona de la Cordillera Oriental en muy buen estado de conservación, con importantes endemismos y una excelente oferta de servicios ambientales. El área se traslapa con el territorio ancestral del pueblo ingano y con el resguardo Nasa  de la Esperanza.
 
 
                         </h5>
 
-                        <h5 class="tittle" style="text-align: justify;">Como característica, en este parque confluyen la Amazonía, la Orinoquía y la Región Andina de Colombia. Se encuentra en una zona de alta pluviosidad (5000 mm al año). Las montañas están cubiertas de bosques vírgenes y hay cascadas de hasta 300 metros. Los ecosistemas involucrados dentro del parque son el páramo andino, la selva y el bosque montañoso.
-
-El parque es el sitio de nacimiento del río Guayabero, que más abajo toma el nombre de río Guaviare, uno de los principales afluentes del gran río Orinoco.
-
-                        </h5>
-                        <p style="text-align: justify;"> Fuentes:<a href="https://es.wikipedia.org/wiki/Parque_nacional_natural_Cordillera_de_los_Picachos" target="_blank">https://es.wikipedia.org/wiki/Parque_nacional_natural_Cordillera_de_los_Picachos  </a></p>
+                       
+                        <p style="text-align: justify;"> Fuentes:<a href="http://www.parquesnacionales.gov.co/portal/es/parques-nacionales/parque-nacional-natural-alto-fragua-indi-wasi/" target="_blank">http://www.parquesnacionales.gov.co/portal/es/parques-nacionales/parque-nacional-natural-alto-fragua-indi-wasi/  </a></p>
                     </div>
                 </div>
 
@@ -54,7 +50,7 @@ El parque es el sitio de nacimiento del río Guayabero, que más abajo toma el n
             <div class="section text-center">
                 <div class="container">
 
-                   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d131237.61360480063!2d-74.9319896019196!3d2.9800303267700827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sco!4v1541260826489" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d185796.6884893383!2d-75.99760172586362!3d1.3637956478480968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e25c4b440c3dadf%3A0x78fb61807b53ff38!2sOficina+PNN+Alto+Fragua+Indi+Wasi!5e0!3m2!1ses-419!2sco!4v1541504886551" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                 </div>
 
             </div>

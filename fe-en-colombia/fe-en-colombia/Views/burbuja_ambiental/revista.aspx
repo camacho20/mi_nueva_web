@@ -3,7 +3,21 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-
+    <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+               
+                <ol class="breadcrumb">
+                    <li><a href="../../inicio.aspx">Inicio</a>
+                         <span>/ </span>
+                    </li>
+                   
+                    <li class="active">Revista</li>
+                </ol>
+            </div>
+            
+        </div>
+        <!-- /.row -->
     
 
                 <h2 class="title" style="text-align: center;">Revista</h2>

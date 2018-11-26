@@ -96,12 +96,31 @@
                 </div>
             </div>
         </div>
-        <div class="main main-raised">
+        <div class="main main-raised"> 
+            <br />
+              <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+               
+                <ol class="breadcrumb">
+                    <li><a href="../../inicio.aspx">Inicio</a>
+                         <span>/ </span>
+                    </li>
+                   
+                    <li class="active">Contacto</li>
+                </ol>
+            </div>
+            
             <div class="container">
+                 
+        <!-- /.row -->
+
                 <div class="section ">
 
                      
        <br />
+                 
+        </div>
                     <div class="col-md-12 ">
                                 <div class="row">
                                     <div class="col-md-7 " >

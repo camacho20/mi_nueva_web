@@ -115,10 +115,10 @@
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                             <ul class="nav navbar-nav">
                                 <li class="dropdown">
-                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Fe en Colombia 
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Fe en Colombia 
                                      <b class="caret"></b>
                                     </a>
-                                    <ul class="dropdown-menu">
+                                    <ul class="dropdown-menu"   >
                                         <li><a href="Views/que_es_fe_en_colombia/lienaspoblacional.aspx">Lineas Poblacional</a></li>
                                         <li class="divider"></li>
                                         <li><a href="Views/que_es_fe_en_colombia/lineaacercamiento.aspx">Lineas de Acercamiento</a></li>
@@ -578,7 +578,10 @@
    <%-- <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>--%>
    <%-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>--%>
     <!--script para javascript para que carga el modal -->
-    <script>
+
+    <script src="Content/stylo_incio/js/bootstrap-hover-dropdown.min.js"></script>
+    
+     <script>
 
         $(document).ready(function () {
             $("#Modal").modal("show");
@@ -632,7 +635,9 @@
         })
     </script>
 
-
+    <script>
+        $('.dropdown-toggle').dropdownHover(options);
+</script>
     <!-- Bootstrap Core JavaScript -->
     <script src="Content/stylo_incio/js/bootstrap.min.js"></script>
   

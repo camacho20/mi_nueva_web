@@ -104,7 +104,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>01/28/2015 04:04:36</publishTime>
     </File>
     <File Include="bin/fe-en-colombia.dll">
-      <publishTime>11/07/2018 09:38:10</publishTime>
+      <publishTime>11/09/2018 09:44:48</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>12/07/2015 19:04:38</publishTime>
@@ -614,7 +614,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>10/24/2018 18:07:27</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/css/material-kit.css">
-      <publishTime>11/02/2018 16:44:38</publishTime>
+      <publishTime>11/08/2018 09:45:09</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/css/material-kit.css.map">
       <publishTime>10/18/2018 19:51:20</publishTime>
@@ -745,59 +745,65 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva43.JPG">
       <publishTime>09/14/2018 15:57:58</publishTime>
     </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva44.JPG">
+      <publishTime>09/14/2018 15:58:00</publishTime>
+    </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva45.JPG">
       <publishTime>09/14/2018 15:58:00</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva46.JPG">
-      <publishTime>09/14/2018 15:58:00</publishTime>
+      <publishTime>09/14/2018 15:58:02</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva47.JPG">
       <publishTime>09/14/2018 15:58:02</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva48.JPG">
-      <publishTime>09/14/2018 15:58:02</publishTime>
+      <publishTime>09/14/2018 15:58:04</publishTime>
+    </File>
+    <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva49.JPG">
+      <publishTime>09/14/2018 15:58:04</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva5.JPG">
       <publishTime>09/14/2018 15:57:26</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva50.JPG">
-      <publishTime>09/14/2018 15:58:04</publishTime>
+      <publishTime>09/14/2018 15:58:06</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva51.JPG">
-      <publishTime>09/14/2018 15:58:04</publishTime>
+      <publishTime>09/14/2018 15:58:06</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva52.JPG">
-      <publishTime>09/14/2018 15:58:06</publishTime>
+      <publishTime>09/14/2018 15:58:08</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva53.JPG">
-      <publishTime>09/14/2018 15:58:06</publishTime>
+      <publishTime>09/14/2018 15:58:08</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva54.JPG">
-      <publishTime>09/14/2018 15:58:08</publishTime>
+      <publishTime>09/14/2018 15:58:10</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva55.JPG">
-      <publishTime>09/14/2018 15:58:08</publishTime>
+      <publishTime>09/14/2018 15:58:10</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva56.JPG">
-      <publishTime>09/14/2018 15:58:10</publishTime>
+      <publishTime>09/14/2018 15:58:12</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva57.JPG">
-      <publishTime>09/14/2018 15:58:10</publishTime>
+      <publishTime>09/14/2018 15:58:12</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva58.JPG">
       <publishTime>09/14/2018 15:58:12</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva59.JPG">
-      <publishTime>09/14/2018 15:58:12</publishTime>
+      <publishTime>09/14/2018 15:58:14</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva6.JPG">
       <publishTime>09/14/2018 15:57:28</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva60.JPG">
-      <publishTime>09/14/2018 15:58:12</publishTime>
+      <publishTime>09/14/2018 15:58:14</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva61.JPG">
-      <publishTime>09/14/2018 15:58:14</publishTime>
+      <publishTime>09/14/2018 15:58:16</publishTime>
     </File>
     <File Include="Content/stylo_memoria/assets/img/boletin/Diapositiva62.JPG">
       <publishTime>09/14/2018 15:58:14</publishTime>
@@ -1670,7 +1676,7 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>09/30/2018 08:58:54</publishTime>
     </File>
     <File Include="Properties/PublishProfiles/ocm.pubxml.user">
-      <publishTime>11/07/2018 10:11:26</publishTime>
+      <publishTime>11/07/2018 11:10:08</publishTime>
     </File>
     <File Include="Scripts/ai.0.22.9-build00167.js">
       <publishTime>09/30/2018 08:58:54</publishTime>
@@ -1775,19 +1781,19 @@ editando este archivo MSBuild. Para conocer más acerca de esto, visite http://g
       <publishTime>11/06/2018 16:03:46</publishTime>
     </File>
     <File Include="Views/burbuja_ambiental/revista.aspx">
-      <publishTime>10/30/2018 10:53:31</publishTime>
+      <publishTime>11/08/2018 09:51:12</publishTime>
     </File>
     <File Include="Views/envia_proyecto/enviar_proyecto.aspx">
       <publishTime>11/06/2018 16:03:24</publishTime>
     </File>
     <File Include="Views/memoria_historica/Boletines.aspx">
-      <publishTime>10/20/2018 15:42:19</publishTime>
+      <publishTime>11/09/2018 09:42:17</publishTime>
     </File>
     <File Include="Views/memoria_historica/memoria.aspx">
       <publishTime>10/20/2018 15:36:27</publishTime>
     </File>
     <File Include="Views/memoria_historica/Memoria_Historica.Master">
-      <publishTime>11/06/2018 16:03:06</publishTime>
+      <publishTime>11/09/2018 09:09:30</publishTime>
     </File>
     <File Include="Views/pasion_amazonas/inicio_pasion_amazonas.aspx">
       <publishTime>10/15/2018 17:27:35</publishTime>

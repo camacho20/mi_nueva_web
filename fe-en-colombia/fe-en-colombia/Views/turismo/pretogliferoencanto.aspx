@@ -21,6 +21,26 @@
 
     <div class="main main-raised">
 
+         <br />
+         <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+               
+                <ol class="breadcrumb">
+                    <li><a href="../../inicio.aspx">Inicio</a>
+                         <span>/ </span>
+                    </li>
+                   <li><a href="mapasitios.aspx">Descubre el Caquetá</a>
+                         <span>/ </span>
+                    </li>
+           
+                    <li class="active">Petroglifos de El Encanto</li>
+                </ol>
+            </div>
+            
+        </div>
+        <!-- /.row -->
+
             <div class="container">
                 <br />
                 <div class="row">

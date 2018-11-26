@@ -29,6 +29,23 @@
     </div>
    <div class="main main-raised">
        <br />
+         <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+               
+                <ol class="breadcrumb">
+                    <li><a href="../../inicio.aspx">Inicio</a>
+                         <span>/ </span>
+                    </li>
+                   
+                    <li class="active">Descubre el Caquetá</li>
+                </ol>
+            </div>
+            
+        </div>
+        <!-- /.row -->
+
+       <br />
         <div class="section text-center">
         <div class="container">
 

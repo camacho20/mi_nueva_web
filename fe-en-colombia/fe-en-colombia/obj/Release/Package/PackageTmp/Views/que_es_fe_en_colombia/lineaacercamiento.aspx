@@ -18,6 +18,22 @@
     </div>
 
     <div class="main main-raised">
+        <br />
+         <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+               
+                <ol class="breadcrumb">
+                    <li><a href="../../inicio.aspx">Inicio</a>
+                         <span>/ </span>
+                    </li>
+                   
+                    <li class="active">Línea Poblacional</li>
+                </ol>
+            </div>
+            
+        </div>
+        <!-- /.row -->
         <div class="container">
             <div class="section section-tabs">
                 <div class="card card-nav-tabs card-plain">

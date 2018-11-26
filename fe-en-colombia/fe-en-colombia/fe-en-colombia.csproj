@@ -299,6 +299,8 @@
     <Content Include="Content\stylo_incio\img\logo.jpg" />
     <Content Include="Content\stylo_incio\img\logoinicio.png" />
     <Content Include="Content\stylo_incio\img\mono1.JPG" />
+    <Content Include="Content\stylo_incio\js\bootstrap-hover-dropdown.js" />
+    <Content Include="Content\stylo_incio\js\bootstrap-hover-dropdown.min.js" />
     <Content Include="Content\stylo_incio\js\bootstrap.js" />
     <Content Include="Content\stylo_incio\js\bootstrap.min.js" />
     <Content Include="Content\stylo_incio\js\bootstrap.youtubepopup.js" />

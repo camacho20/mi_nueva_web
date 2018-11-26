@@ -21,6 +21,26 @@
 
 
     <div class="main main-raised">
+        <br />
+         <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+               
+                <ol class="breadcrumb">
+                    <li><a href="../../inicio.aspx">Inicio</a>
+                         <span>/ </span>
+                    </li>
+                   <li><a href="mapasitios.aspx">Descubre el Caquetá</a>
+                         <span>/ </span>
+                    </li>
+           
+                    <li class="active">Parque Nacional Natural Cueva de los Guácharos</li>
+                </ol>
+            </div>
+            
+        </div>
+        <!-- /.row -->
+
 
         <div class="section text-center">
             

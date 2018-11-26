@@ -3,7 +3,22 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-  
+  <br />
+         <!-- Page Heading/Breadcrumbs -->
+        <div class="row">
+            <div class="col-lg-12">
+               
+                <ol class="breadcrumb">
+                    <li><a href="../../inicio.aspx">Inicio</a>
+                         <span>/ </span>
+                    </li>
+                   
+                    <li class="active">Pasión Amazonas</li>
+                </ol>
+            </div>
+            
+        </div>
+        <!-- /.row -->
      <br />
      
             <h2 class="title" style="text-align:center;">

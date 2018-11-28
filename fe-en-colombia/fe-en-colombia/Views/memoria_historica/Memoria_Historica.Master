@@ -6,19 +6,16 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
- <meta name="viewport" content="width=device-width, initial-scale=1"/>
+ <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
     <!--     Fonts and icons     -->
  	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:400,700|Material+Icons" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css"/>
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
     <!-- Material Kit CSS -->
     <link href="../../Content/stylo_memoria/assets/css/material-kit.css?v=2.0.4" rel="stylesheet" />
-    <%--<link href="../../Content/stylo_memoria/assets/css/jgallery.min.css?v=1.6.0" rel="stylesheet" />
-    <script src="../../Content/stylo_memoria/assets/js/jquery-2.0.3.min.js"></script>
-    <script src="../../Content/stylo_memoria/assets/js/jgallery.min.js?v=1.6.0"></script>--%>
+  
     <link href="../../Content/stylo_pasiones/css/font-awesome.min.css" rel="stylesheet" />
-   <%-- <script src="../../Content/stylo_memoria/assets/js/touchswipe.min.js"></script>
-    <script src="../../Content/stylo_memoria/assets/js/jgallery.js"></script>--%>
+   
 
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
@@ -43,7 +40,7 @@
       <div class="collapse navbar-collapse">
         <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                  <a href="memoria.aspx" class="nav-link">
+                  <a href="memoria2.aspx" class="nav-link">
                      <i class="far fa-question-circle"></i> ¿Qué es Memoria Histórica?
             </a>
               </li>
@@ -87,6 +84,6 @@
     </form>
 
   <script src="../../Content/stylo_memoria/assets/js/material-kit.js?v=2.0.4"></script>
-   
+    
 </body>
 </html>

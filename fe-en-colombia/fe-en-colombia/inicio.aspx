@@ -130,7 +130,7 @@
                                 </li>
 
                                 <li>
-                                    <a href="Views/memoria_historica/memoria.aspx">Memoria  Histórica </a>
+                                    <a href="Views/memoria_historica/memoria2.aspx">Memoria  Histórica </a>
                                 </li>
 
                                 <li>

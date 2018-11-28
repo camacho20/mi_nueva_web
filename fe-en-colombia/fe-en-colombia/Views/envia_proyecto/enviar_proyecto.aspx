@@ -15,14 +15,14 @@
     <link href="../../Content/stylo_memoria/assets/css/material-kit.css?v=2.0.4" rel="stylesheet" />
     <link href="../../Content/stylo_pasiones/css/font-awesome.min.css" rel="stylesheet" />
 
-     <%-- solo letras--%>
+    <link href="../../Content/estilo.css" rel="stylesheet" />
+ <%-- solo letras--%>
     <script>
         function soloLetras(e) {
             key = e.keyCode || e.which;
             tecla = String.fromCharCode(key).toLowerCase();
             letras = " áéíóúabcdefghijklmnñopqrstuvwxyz";
             especiales = "8-37-39-46";
-
             tecla_especial = false
             for (var i in especiales) {
                 if (key == especiales[i]) {
@@ -30,7 +30,6 @@
                     break;
                 }
             }
-
             if (letras.indexOf(tecla) == -1 && !tecla_especial) {
                 return false;
             }
@@ -168,7 +167,7 @@
                                         </div>
                                         <br />
 
-                                         <asp:Button ID="Button1" runat="server" CssClass="btn btn-success btn-round  " Text="Enviar" OnClick="Button1_Click"  />
+                                         <asp:Button ID="Button1" runat="server" CssClass="btn btn-success btn-round  " Text="Enviar"   />
 
                                     </div>
                                 </div>
@@ -182,6 +181,7 @@
           
         </div>
 
+       </form>
 
         <footer class="footer footer-default">
             <div class="container">
@@ -197,7 +197,7 @@
 
 
 
-    </form>
+
 
     <script src="../../Content/stylo_memoria/assets/js/material-kit.js?v=2.0.4"></script>
 </body>

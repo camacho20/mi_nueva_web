@@ -1,11 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Views/memoria_historica/Memoria_Historica.Master" AutoEventWireup="true" CodeBehind="Boletines.aspx.cs" Inherits="fe_en_colombia.Views.memoria_historica.Boletines" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
-   <%-- <script type="text/javascript">
-        $(function () {
-            $('#gallery').jGallery();
-        });
-</script>--%>
+
 
     <style>
 		
@@ -104,5 +100,5 @@
 		//call paginate
 		$('#example').paginate();
 	</script>
-
+    
 </asp:Content>

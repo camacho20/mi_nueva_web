@@ -216,6 +216,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\estilo.css" />
     <Content Include="Content\main.css" />
     <Content Include="Content\stylo_incio\css\bootstrap.css" />
     <Content Include="Content\stylo_incio\css\bootstrap.min.css" />
@@ -514,6 +515,9 @@
     <Content Include="Content\stylo_memoria\assets\css\material-kit.css.map" />
     <Content Include="Content\stylo_memoria\assets\js\material-kit.js.map" />
     <Content Include="Content\stylos_burbuja\Revista burbuja del medio ambiente.pdf" />
+    <Content Include="Content\enviar_email.php">
+      <SubType>Designer</SubType>
+    </Content>
     <None Include="Properties\PublishProfiles\ocm.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="inicio.aspx" />
@@ -556,6 +560,7 @@
     <Content Include="Views\envia_proyecto\enviar_proyecto.aspx" />
     <Content Include="Views\memoria_historica\Boletines.aspx" />
     <Content Include="Views\memoria_historica\memoria.aspx" />
+    <Content Include="Views\memoria_historica\memoria2.aspx" />
     <Content Include="Views\pasion_amazonas\inicio_pasion_amazonas.aspx" />
     <Content Include="Views\pasion_caqueta\inicio_pasion_caqueta.aspx" />
     <Content Include="Views\pasion_putumayo\inicio_pasion_putumayo.aspx" />
@@ -650,6 +655,13 @@
     </Compile>
     <Compile Include="Views\memoria_historica\memoria.aspx.designer.cs">
       <DependentUpon>memoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\memoria_historica\memoria2.aspx.cs">
+      <DependentUpon>memoria2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\memoria_historica\memoria2.aspx.designer.cs">
+      <DependentUpon>memoria2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\memoria_historica\Memoria_Historica.Master.cs">
       <DependentUpon>Memoria_Historica.Master</DependentUpon>

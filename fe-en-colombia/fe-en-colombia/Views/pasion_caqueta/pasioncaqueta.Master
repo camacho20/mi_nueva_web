@@ -47,21 +47,21 @@
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="inicio.html" >
+                        <a href="inicio_pasion_caqueta.aspx" >
                             <i class="material-icons">account_balance</i> ¿Qué es Pasión Caquetá ?
                         </a>
                     </li>
 
-                    <li>
+                   <%-- <li>
 
                         <a href="noticias.html">
-                            <i class="fas fa-calendar-alt"></i> Cronograma de actividades
+                            <i class="fas fa-calenda<a href="inicio_pasion_caqueta.aspx">inicio_pasion_caqueta.aspx</a>r-alt"></i> Cronograma de actividades
                         </a>
 
-                    </li>
+                    </li>--%>
 
                     <li>
-                        <a href="sobrenosotros.html">
+                        <a href="https://www.instagram.com/pasioncaqueta/?hl=es-la">
                            <i class="fas fa-video"></i> Multimedia
                         </a>
                     </li>

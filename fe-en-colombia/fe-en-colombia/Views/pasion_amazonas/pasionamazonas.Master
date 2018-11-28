@@ -51,21 +51,21 @@
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="inicio.html">
+                        <a href="inicio_pasion_amazonas.aspx">
                             <i class="material-icons">account_balance</i> ¿Qué es Pasión Amazonas ?
                         </a>
                     </li>
 
-                    <li>
+                   <%-- <li>
 
-                        <a href="noticias.html">
+                        <a href="noticias.ht<a href="inicio_pasion_amazonas.aspx">inicio_pasion_amazonas.aspx</a>ml">
                             <i class="fas fa-calendar-alt"></i> Cronograma de actividades
                         </a>
 
-                    </li>
+                    </li>--%>
 
                     <li>
-                        <a href="sobrenosotros.html">
+                        <a href="#">
                            <i class="fas fa-video"></i> Multimedia
                         </a>
                     </li>

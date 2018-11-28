@@ -45,11 +45,11 @@
             </a>
               </li>
              
-              <li class="nav-item">
+              <%--<li class="nav-item">
                   <a href="Boletines.aspx" class="nav-link">
                      <i class="fas fa-users"></i> Ultimas reuniones
             </a>
-              </li>
+              </li>--%>
 
           </ul>
       </div>

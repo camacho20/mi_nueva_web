@@ -24,7 +24,7 @@
                 <br />
 
    <%-- <embed src="../../Content/stylos_burbuja/Revista%20burbuja%20del%20medio%20ambiente.pdf#toolbar=0" width="80%" height="500px"/>--%>
-<iframe src="https://e.issuu.com/anonymous-embed.html?u=pasionporlaamazonia&d=revista_burbuja_del_medio_ambiente" width="90%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="https://e.issuu.com/anonymous-embed.html?u=pasionporlaamazonia&d=revista_burbuja_del_medio_ambiente" width="90%" height="800px" frameborder="0" allowfullscreen="true"></iframe>
     
 
         

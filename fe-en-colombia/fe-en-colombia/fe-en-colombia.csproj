@@ -390,11 +390,11 @@
     <Content Include="Content\stylo_memoria\assets\img\boletin\Diapositiva9.JPG" />
     <Content Include="Content\stylo_memoria\assets\img\campe.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\campesino.jpg" />
-    <Content Include="Content\stylo_memoria\assets\img\cons.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\cons2.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\env.jpg" />
-    <Content Include="Content\stylo_memoria\assets\img\estu.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\estu2.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\etnia.jpg" />
-    <Content Include="Content\stylo_memoria\assets\img\fami.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\fami2.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\img turismo\aracuara.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\img turismo\auka wasi.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\img turismo\encanto.jpg" />
@@ -407,10 +407,10 @@
     <Content Include="Content\stylo_memoria\assets\img\lgt.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\lieapobla.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\lieneatrans.jpg" />
-    <Content Include="Content\stylo_memoria\assets\img\medio.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\medio2.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\memoria.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\momoriainicion.jpg" />
-    <Content Include="Content\stylo_memoria\assets\img\mujer.jpg" />
+    <Content Include="Content\stylo_memoria\assets\img\mujer2.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\reu.jpg" />
     <Content Include="Content\stylo_memoria\assets\img\victi.jpg" />
     <Content Include="Content\stylo_memoria\assets\js\core\bootstrap-material-design.min.js" />
@@ -560,7 +560,6 @@
     <Content Include="Views\envia_proyecto\enviar_proyecto.aspx" />
     <Content Include="Views\memoria_historica\Boletines.aspx" />
     <Content Include="Views\memoria_historica\memoria.aspx" />
-    <Content Include="Views\memoria_historica\memoria2.aspx" />
     <Content Include="Views\pasion_amazonas\inicio_pasion_amazonas.aspx" />
     <Content Include="Views\pasion_caqueta\inicio_pasion_caqueta.aspx" />
     <Content Include="Views\pasion_putumayo\inicio_pasion_putumayo.aspx" />
@@ -655,13 +654,6 @@
     </Compile>
     <Compile Include="Views\memoria_historica\memoria.aspx.designer.cs">
       <DependentUpon>memoria.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Views\memoria_historica\memoria2.aspx.cs">
-      <DependentUpon>memoria2.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Views\memoria_historica\memoria2.aspx.designer.cs">
-      <DependentUpon>memoria2.aspx</DependentUpon>
     </Compile>
     <Compile Include="Views\memoria_historica\Memoria_Historica.Master.cs">
       <DependentUpon>Memoria_Historica.Master</DependentUpon>
